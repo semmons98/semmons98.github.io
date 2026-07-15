@@ -1,3 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: poole/hyde
+plugins:
+- jekyll-remote-theme
+remote_theme: poole/hyde@v2.1.0
 title: Spencer Emmons
