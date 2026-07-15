@@ -3,7 +3,11 @@ plugins:
 - jekyll-remote-theme
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Spencer Emmons
+colorscheme: light
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/semmons98
+navigation:
+  - name: Another Page
+    link: ./research.html
