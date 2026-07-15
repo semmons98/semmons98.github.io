@@ -3,6 +3,6 @@ Hi, I'm Spencer Emmons. I'm an undergraduate student at Arizona State University
 
 I have also been working as an undergraduate TA for the lab portions of ASU's Intro Astronomy for Non-Majors (AST 111 and AST 112). 
 
-I also do research. I work with Dr. Rogier Windhorst's cosmology research group at ASU - currently using JWST images to study star formation during cosmic noon. Comnpleted research projects include work planetary science/seismology and astrobiology, both of which I am interested in continuing. 
+I also do research. I work with Dr. Rogier Windhorst's cosmology research group at ASU - currently using JWST images to study star formation during cosmic noon. Comnpleted research projects include work on planetary science/seismology and astrobiology, both of which I am interested in continuing. 
 
-A link to my American Astronomical Society poster (about the aforementioned planetary science project) from the Summer 2026 meeting in Pasadena, California can be found [here](https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33), and my resume can be found here: <a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+A link to my American Astronomical Society poster (about the aforementioned planetary science project) from the Summer 2026 meeting in Pasadena, California can be found [here](https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33), and my resume can be found [here](pdfs/resume.pdf) here.
