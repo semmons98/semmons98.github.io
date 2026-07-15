@@ -1,4 +1,5 @@
 plugins:
   - jekyll-remote-theme
-remote_theme: pages-themes/poole/hyde
+#remote_theme: pages-themes/poole/hyde
+theme: jekyll-theme-midnight
 title: Homepage
