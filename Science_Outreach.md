@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Science Outreach
+title: Science Outreach and Education
 permalink: /science_outreach/
 ---
-#Science Outreach
+#Science Outreach and Education
