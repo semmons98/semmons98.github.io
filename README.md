@@ -7,4 +7,4 @@ I also do research. I work with Dr. Rogier Windhorst's cosmology research group 
 
 A link to my American Astronomical Society poster (about the aforementioned planetary science project) from the Summer 2026 meeting in Pasadena, California can be found [here](https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33), and my resume can be found [here](pdfs/resume.pdf).
 
-<a href="{{ site.baseurl }}/assets/resume.pdf" target="_blank">Click here to view my PDF</a>
+<a href="{{ site.baseurl }}/pdfs/resume.pdf" target="_blank">Click here to view my PDF</a>
