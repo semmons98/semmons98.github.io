@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us
-permalink: /contact/
+title: Research
+permalink: /research/
 ---
 testing123
