@@ -9,5 +9,7 @@ platforms:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/semmons98
 navigation:
-  - name: My Research
+  - name: Research
     link: ./research/
+  - name: Programming
+    link: ./programming/
