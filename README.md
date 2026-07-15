@@ -5,4 +5,4 @@ I have also been working as an undergraduate TA for the lab portions of ASU's In
 
 I also do research. I work with Dr. Rogier Windhorst's cosmology research group at ASU - currently using JWST images to study star formation during cosmic noon. Comnpleted research projects include work on planetary science/seismology and astrobiology, both of which I am interested in continuing. 
 
-My resume can be found <a href="{{ site.baseurl }}/pdfs/Resume.pdf" target="_blank">here</a>.
+My full resume can be found <a href="{{ site.baseurl }}/pdfs/Resume.pdf" target="_blank">here</a>.
