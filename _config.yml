@@ -10,7 +10,7 @@ platforms:
     link: https://github.com/semmons98
 navigation:
   - name: Home
-    link: ./
+    link: https://semmons98.github.io/
   - name: Research
     link: ./research/
   - name: Programming
