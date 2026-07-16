@@ -9,5 +9,5 @@ I have a lot of interest in eductation and outreach. Currently, I work as an und
 
 <!--
 Include the extra credit quiz I wrote for AST 111 and a discussion of how I have tried to combat AI use by students. 
-(Will upload sonification stuff once I have a finished product to show.)
+(Will upload sonification stuff once I have a finished product to show.) 
 -->
