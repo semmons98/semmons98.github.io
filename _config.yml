@@ -5,9 +5,9 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Spencer Emmons
 color-scheme: dark
 platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/semmons98
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/spencer-emmons-a858a3422
 navigation:
   - name: Home
     link: https://semmons98.github.io/
