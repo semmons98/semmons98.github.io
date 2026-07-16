@@ -7,4 +7,4 @@ As an astronomy student I have spent a fair amount of time programming for class
 
 I have also been working as an undergraduate TA for the lab portions of ASU's Intro Astronomy for Non-Majors (AST 111 and AST 112), and have been experimenting with data sonification for science outreach.
 
-My full CV can be found <a href="{{ site.baseurl }}/pdfs/Resume.pdf" target="_blank">here</a>.
+My full CV can be found <a href="{{ site.baseurl }}/pdfs/Full CV.pdf" target="_blank">here</a>.
