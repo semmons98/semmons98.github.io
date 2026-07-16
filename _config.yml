@@ -7,7 +7,7 @@ color-scheme: dark
 platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: www.linkedin.com/in/spencer-emmons-a858a3422
+    link: https://www.linkedin.com/in/spencer-emmons
 navigation:
   - name: Home
     link: https://semmons98.github.io/
