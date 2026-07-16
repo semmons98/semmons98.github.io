@@ -1,4 +1,3 @@
-+
 # Home
 Hi, I'm Spencer Emmons. I'm an undergraduate student at Arizona State University's School of Earth and Space Exploration, working on a bachelors degree in astrophysics, with a minor in physics and a certificate in planetary science. I expect to finish this degree in May 2027 - though I already have an associate of science degree from Yavapai College and a certificate in Computer Aided Drafting/Design from the Regional Occupational Program in Camarillo, California.
 
