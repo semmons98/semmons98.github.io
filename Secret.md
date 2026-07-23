@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Game Design
-permalink: /games/
+title: Secret
+permalink: /Secret/
 ---
 # Secret Page
 
