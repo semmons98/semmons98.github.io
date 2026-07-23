@@ -16,3 +16,11 @@ AOS: Cities of Sigmar (Formerly, GW got rid of the part I liked the most - the h
 I also play other tabletop wargames, Battletech, Trench Crusade (Abyssinia, Iron Wall, and Knights of Avarice), Bolt Action (Finland, Soviet Union, US Marines).
 
 My Discord name is AstroCitrus1. 
+
+![Rocket 1](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_1.jpg)
+![Rocket 2](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_2.jpg)
+![Max 1](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_1.jpg)
+![Max 2](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_2.jpg)
+![Cooper 1](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_1.jpg)
+![Cooper 2](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_2.jpg)
+![Cooper and Biscuit](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_and_Biscuit.JPG)
