@@ -24,4 +24,4 @@ Max (2012 (approx.)-2026)
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_1.jpg" alt="Cooper 1" width="300" height="200"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_2.jpg" alt="Cooper 2" width="300" height="200">  
 Cooper (2011-2024)  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_and_Biscuit.JPG" alt="Cooper and Biscuit" width="300" height="200">  
-Cooper and Biscuit (2005 (approxx.)-2015)
+Cooper and Biscuit (2005 (approx.)-2015)
