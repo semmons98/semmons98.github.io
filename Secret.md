@@ -13,7 +13,7 @@ Movies: LOTR, *Jurassic Park*, *Star Wars*
 
 Shows: *Battlestar Galactica*, *Star Trek*, *Stargate*
 
-Video Games: *Stellaris*, *Red Orchestra/Rising Storm*, *Mount & Blade*, *Mechwarrior 5/Online*, *Civilization*, *Total War*
+Video Games: *Stellaris*, *Red Orchestra/Rising Storm*, *Mount & Blade*, *Mechwarrior 5*, *Civilization*, *Total War*
 
 My Pokéman card collection looks like <a href="https://docs.google.com/spreadsheets/d/1WPsSfE-zkyfsgZjD_Pv3mDOizteAEl79Ec6nH0cjnA0/edit?usp=sharing" target="_blank">this</a>.
 
