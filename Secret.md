@@ -17,10 +17,10 @@ I also play other tabletop wargames, Battletech, Trench Crusade (Abyssinia, Iron
 
 My Discord name is AstroCitrus1. 
 
-![Rocket 1](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_1.jpg)
-![Rocket 2](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_2.jpg)
-![Max 1](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_1.jpg)
-![Max 2](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_2.jpg)
-![Cooper 1](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_1.jpg)
-![Cooper 2](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_2.jpg)
-![Cooper and Biscuit](https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_and_Biscuit.JPG)
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_1.jpg" alt="Rpcket 1" width="300" height="200">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_2.jpg" alt="Rocket 2" width="300" height="200">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_1.jpg" alt="Max 1" width="300" height="200">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_2.jpg" alt="Max 2" width="300" height="200">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_1.jpg" alt="Cooper 1" width="300" height="200">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_2.jpg" alt="Cooper 2" width="300" height="200">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_and_Biscuit.JPG" alt="Cooper and Biscuit" width="300" height="200">
