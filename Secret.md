@@ -26,13 +26,13 @@ I also play other tabletop wargames, Battletech, Trench Crusade (Abyssinia, Iron
 My Discord name is AstroCitrus1. 
 
 Pets, Current and Past:  
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_1.jpg?raw=true" alt="Rpcket 1" width="270" height="180"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Rocket_2.jpg?raw=true" alt="Rocket 2" width="270" height="180">  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Rocket_1.jpg?raw=true" alt="Rpcket 1" width="270" height="180"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Rocket_2.jpg?raw=true" alt="Rocket 2" width="270" height="180">  
 Rocket  
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_1.jpg?raw=true" alt="Max 1" width="300" height="200"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Max_2.jpg?raw=true" alt="Max 2" width="200" height="200">  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Max_1.jpg?raw=true" alt="Max 1" width="300" height="200"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Max_2.jpg?raw=true" alt="Max 2" width="200" height="200">  
 Max  
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_1.jpg?raw=true" alt="Cooper 1" width="270" height="180"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_2.jpg?raw=true" alt="Cooper 2" width="270" height="180">  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Cooper_1.jpg?raw=true" alt="Cooper 1" width="270" height="180"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Cooper_2.jpg?raw=true" alt="Cooper 2" width="270" height="180">  
 Cooper  
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos./Cooper_and_Biscuit.JPG?raw=true" alt="Cooper and Biscuit" width="300" height="200">  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Cooper_and_Biscuit.JPG?raw=true" alt="Cooper and Biscuit" width="300" height="200">  
 Cooper and Biscuit
 
 Memes:  
