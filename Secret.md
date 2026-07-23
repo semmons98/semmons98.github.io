@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Secret
-permalink: /Secret/
+permalink: /secret/
 ---
 # Secret Page
 
