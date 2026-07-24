@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # Research
 
-Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research projects in planetary science/asteroid impacts/seismology and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions/thought processes, links (for published work), and data/figures for various research projects I have worked on. 
+Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science/asteroid impacts/seismology and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions/thought processes, links (for published work), and data/figures for various research projects I have worked on. 
 
 ## Galaxies and Cosmology
 
