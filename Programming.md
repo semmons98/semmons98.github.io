@@ -21,6 +21,10 @@ As an astronomy student I have spent a fair amount of time programming for class
 
 
 
+### Golden Ratio Distance Conversion
+
+
+
 <!--
-Include tic-tac-toe, fibonnacci, any school or research python scripts that seem appropriate/good enough to share. Include something about the space game I am planning.
+Include tic-tac-toe, fibonnacci, any school or research python scripts that seem appropriate/good enough to share. Include something about the space game I am planning. Include possible additions to the current programs (other games or modes that would work well with tic-tac-toe, using the actual Fibonacci Sequence for the Golden Ratio conversion, etc.
 -->
