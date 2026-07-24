@@ -29,9 +29,12 @@ My process was to take the following mosaic of New Horizons images from the USGS
 
 I then applied a grid over it that was scaled such that each square was approximately 32 square kilometers (not accounting for deformations due to the map projections). Then I went through each grid square and counted the number of visible craters - due to the resolution the smallest were approximately 1.5 kilometers in diameter. The number of craters in these grid squares could then be used for analysis and figures. The figures and images from this project are included below: 
 
-<!--Insert images and figures here-->
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Heat%20Map.png?raw=true">
-This is a heat map showing the locations of the craters I counted. The white outlines are craters that overlapped more than one grid square, the black areas are those that were unable to be counted due to images either not existing or being too low resolution for me to see the craters. 
+This is a heat map showing the locations of the craters I counted. The white outlines are craters that overlapped more than one grid square, the black areas are those that were unable to be counted due to images either not existing or being too low resolution. 
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Total%20Craters.png?raw=true">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Northern%20Craters.png?raw=true">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Southern%20Craters.png?raw=true">
 
 ## Astrobiology
 
