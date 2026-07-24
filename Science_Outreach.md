@@ -9,6 +9,12 @@ I have a lot of interest in eductation and outreach. Currently, I work as an und
 
 ## AST 111 and AST 112 TA
 
+### Slide Decks/Presentations
+
+### Extra Credit Quiz
+
+### AI Usage
+
 <!--
 Include the extra credit quiz I wrote for AST 111 and a discussion of how I have tried to combat AI use by students. 
 (Will upload sonification stuff once I have a finished product to show.) 
