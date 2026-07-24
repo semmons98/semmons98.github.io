@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # Research
 
-Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science/asteroid impacts/seismology and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. 
+Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. 
 
 ## Galaxies and Cosmology
 
@@ -21,7 +21,7 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ### Crater Counting on Charon (2023)
 
-Though for a class, this is arguably my first research project; taking place during my second semester at ASU when I took SES 121/123 *Earth, Solar System, and Universe*. It is fairly well explained by the title, I counted the craters on Pluto's largest moon Charon. As I was very inexperienced and did not know what kind of tools may exist for this task, I did it by hand, it was incredibly tedious but also kind of fun. My results confirmed existing hypothesis, that Charon has (or had relatively recently) some level of geologic activity - likely cryovolcanism - which resurfaces some parts of the surface. 
+Though for a class, this is arguably my first research project; taking place during my second semester at ASU when I took SES 123 *Earth, Solar System, and Universe Lab*. The concept is fairly well explained by the title, I counted the craters on Pluto's largest moon Charon. As I was very inexperienced and did not know what kind of tools may exist for this task, I did it by hand, it was incredibly tedious but also kind of fun. My results confirmed existing hypothesis, that Charon has (or had relatively recently) some level of geologic activity - likely cryovolcanism - which resurfaces some parts of the surface. 
 
 My process was to take the following mosaic of New Horizons images from the USGS astrogeology website and open it in photoshop. 
 
@@ -35,7 +35,7 @@ This is a heat map showing the locations of the craters I counted. The white out
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Total%20Craters.png?raw=true" width="175" height="113"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Northern%20Craters.png?raw=true" width="175" height="113"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Southern%20Craters.png?raw=true" width="175" height="113">
 
-These show the number of craters and how they are distributed, open the images in a new tab to see them larger.  
+These bar graphs show the number of craters and how they are distributed, open the images in a new tab to see them larger.  
 
 ## Astrobiology
 
@@ -45,7 +45,7 @@ This project was also completed for a class; SES 311 *Astrobiology*. It was the 
 
 Our professor, Dr. Sara Walker, decided to have us create these diagnostic criteria, apply them to a number of possible and/or disproven astrobiological life detections as case studies, and write a scientific paper-styled report on it as our final project. Each criterion and each case study had 2-3 students assigned to work on it (the criterion groups and case study groups were largely not the same), then we wrote the paper together. The sections I was assigned were "Life can Create" and the possible detection of DMS/DMDS on exoplanet K2-18b. In addition to my assigned sections, I also wrote the abstract and constributed to the Limitations and Next Steps section and the Conclusion, as well as handling much of the formatting, works cited, and some general editing. 
 
-The details of the methodology and results can be found in the final paper <a href="{{ site.baseurl }}/pdfs/DiagnosingLife_FinalPaper.pdf" target="_blank">here (Warning, 50 pages including appendix and references)</a>. Instead, I'm going to use this space to discuss how I would like to continue/build upon/redo this project, as myself and several of the other more involved students agreed that we really liked the concept, but our execution needs significant work, particularly in terms of overlaps between the criteria. 
+The details of the methodology and results can be found in the final paper <a href="{{ site.baseurl }}/pdfs/DiagnosingLife_FinalPaper.pdf" target="_blank">here (warning, 50 pages including appendix and references)</a>. Instead, I'm going to use this space to discuss how I would like to continue/build upon/redo this project, as myself and several of the other more involved students agreed that we really liked the concept, but our execution needs significant work, particularly in terms of overlaps between the criteria. 
 
 <!--
 Include current stuff, PsycheESE, Diagnosing Life Paper, Crater Counting on Charon.
