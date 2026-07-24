@@ -7,6 +7,8 @@ permalink: /science_outreach/
 
 I have a lot of interest in eductation and outreach. Currently, I work as an undergraduate TA for the lab portions of ASU's Intro Astronomy for Non-Majors (AST 111 and AST 112). This page is for examples of what I have created for the purpose of astronomy (and science generally) education and outreach; lecture slides used to introduce labs, extra credit assignments, science themed art, etc.
 
+## AST 111 and AST 112 TA
+
 <!--
 Include the extra credit quiz I wrote for AST 111 and a discussion of how I have tried to combat AI use by students. 
 (Will upload sonification stuff once I have a finished product to show.) 
