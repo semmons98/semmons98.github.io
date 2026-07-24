@@ -25,7 +25,7 @@ Though for a class, this is arguably my first research project; taking place dur
 
 My process was to take the following mosaic of New Horizons images from the USGS astrogeology website and open it in photoshop. 
 
-<!--Insert image here-->
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Surface.png?raw=true">
 
 I then applied a grid over it that was scaled such that each square was approximately 32 square kilometers (not accounting for deformations due to the map projections). Then I went through each grid square and counted the number of visible craters - due to the resolution the smallest were approximately 1.5 kilometers in diameter. The number of craters in these grid squares could then be used for analysis and figures. The figures and images from this project are included below: 
 
