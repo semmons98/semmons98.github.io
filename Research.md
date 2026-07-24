@@ -35,7 +35,7 @@ This is a heat map showing the locations of the craters I counted. The white out
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Total%20Craters.png?raw=true" width="175" height="113"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Northern%20Craters.png?raw=true" width="175" height="113"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Southern%20Craters.png?raw=true" width="175" height="113">
 
-These show the number of craters and how they are distributed, open the images in a new tab to see them larger. 
+These show the number of craters and how they are distributed, open the images in a new tab to see them larger.  
 
 ## Astrobiology
 
