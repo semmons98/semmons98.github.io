@@ -9,13 +9,23 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ## Galaxies and Cosmology
 
+### Quenching of Star Formation
+
 
 
 ## Planetary Science
 
+### PsycheESE
+
+
+
+### Crater Counting on Charon
+
 
 
 ## Astrobiology
+
+### Diagnosing Life
 
 
 
