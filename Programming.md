@@ -15,7 +15,9 @@ As an astronomy student I have spent a fair amount of time programming for class
 
 
 
-## Silly Code
+## Silly Code and Games
+
+### matplotlib tictactoe
 
 
 
