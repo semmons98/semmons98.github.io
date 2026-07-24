@@ -11,13 +11,15 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ### Quenching of Star Formation (2025-present)
 
-
+<!-- Describe what I am currently working on, include how it took awhile to get started because I dove in without knowing much about the specific science being done or the methods, but I'm working through it now. -->
 
 ## Planetary Science
 
 ### PsycheESE (2025-2026)
 
+A link to the American Astronomical Society poster about this project from the 248th meeting can be found <a href="https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33" target="_blank">here</a>.
 
+<!-- Describe project and the class process (PDR, CDR, etc.) -->
 
 ### Crater Counting on Charon (2023)
 
@@ -46,6 +48,8 @@ This project was also completed for a class; SES 311 *Astrobiology*. It was the 
 Our professor, Dr. Sara Walker, decided to have us create these diagnostic criteria, apply them to a number of possible and/or disproven astrobiological life detections as case studies, and write a scientific paper-styled report on it as our final project. Each criterion and each case study had 2-3 students assigned to work on it (the criterion groups and case study groups were largely not the same), then we wrote the paper together. The sections I was assigned were "Life can Create" and the possible detection of DMS/DMDS on exoplanet K2-18b. In addition to my assigned sections, I also wrote the abstract and constributed to the Limitations and Next Steps section and the Conclusion, as well as handling much of the formatting, works cited, and some general editing. 
 
 The details of the methodology and results can be found in the final paper <a href="{{ site.baseurl }}/pdfs/DiagnosingLife_FinalPaper.pdf" target="_blank">here (warning: 40 pages including appendix and references)</a>. Instead, I'm going to use this space to discuss how I would like to continue/build upon/redo this project, as myself and several of the other more involved students agreed that we really liked the concept, but our execution needs significant work, particularly in terms of overlaps between the criteria. 
+
+<!-- Write about how I would improve the project here -->
 
 <!--
 Include current stuff, PsycheESE, Diagnosing Life Paper, Crater Counting on Charon.
