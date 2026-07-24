@@ -32,9 +32,7 @@ I then applied a grid over it that was scaled such that each square was approxim
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Heat%20Map.png?raw=true">
 This is a heat map showing the locations of the craters I counted. The white outlines are craters that overlapped more than one grid square, the black areas are those that were unable to be counted due to images either not existing or being too low resolution. 
 
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Total%20Craters.png?raw=true" width="150" height="100">
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Northern%20Craters.png?raw=true" width="150" height="100">
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Southern%20Craters.png?raw=true" width="150" height="100">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Total%20Craters.png?raw=true" width="150" height="100"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Northern%20Craters.png?raw=true" width="150" height="100"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Southern%20Craters.png?raw=true" width="150" height="100">
 
 ## Astrobiology
 
