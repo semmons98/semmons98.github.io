@@ -37,7 +37,7 @@ This is a heat map showing the locations of the craters I counted. The white out
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Total%20Craters.png?raw=true" width="600" height="450"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Northern%20Craters.png?raw=true" width="275" height="206"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/charon/Charon%20Southern%20Craters.png?raw=true" width="275" height="206">
 
-These bar graphs show the number of craters and how they are distributed, open the images in a new tab to see them larger.  
+These bar graphs show the number of craters and how they are distributed, open the images in a new tab to see them larger. An interesting detail is that the Northern Hemisphere, being better imaged, has nearly 4 times as many grid squares included than the Southern Hemisphere (1028 vs 262), despite this, I counted only 20 more craters in the Northern Hemisphere. 
 
 ## Astrobiology
 
