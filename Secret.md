@@ -23,7 +23,7 @@ LOTR, *Star Wars*
 Dark Moor, NanowaR of Steel, The HU, The Longest Johns, StringStorm, Leslie Fish, Vic Tyler, VoicePlay, Sabaton, Queen, Five Iron Frenzy, and too many other too lists here...
 
 ## Tabletop Wargames:  
-Battletech, Trench Crusade (Abyssinia, Iron Wall, and Knights of Avarice), Bolt Action (Finland, Soviet Union, US Marines).  
+Battletech, Trench Crusade (Abyssinia, Iron Wall, and Knights of Avarice), Bolt Action (Finland, Soviet Union, US Marines), Gaslands.  
 ### Warhammer:  
 40K: Space Marines/Blood Angels (Lamenters), Imperial Guard (Vostroyans), Imperial Knights (Homebrew house), Death Guard (I may turn this into a Heresy Army in the future - lot of my favorite units went to Legends at the beginning of 10th edition...).  
 30K: White Scars.  
