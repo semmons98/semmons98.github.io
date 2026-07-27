@@ -7,6 +7,10 @@ permalink: /secret/
 
 Congratulations, you found the secret page of my website. 
 
+My Pokéman card collection looks like <a href="https://docs.google.com/spreadsheets/d/1WPsSfE-zkyfsgZjD_Pv3mDOizteAEl79Ec6nH0cjnA0/edit?usp=sharing" target="_blank">this</a>.
+
+My Discord name is AstroCitrus1. 
+
 ## Books:  
 LOTR, *Battletech: Forever Faithful*, *The War with the Newts*
 
@@ -32,12 +36,6 @@ AOS: Cities of Sigmar (Formerly, GW got rid of the part I liked the most - the h
 ## TTRPGs:  
 Played: DnD 5E, Call of Cthulhu, Starfinder, Patherfinder, Cyberpunk Red, Knave, Mothership, All Flesh Must be Eaten, Vampire the Masquerade.  
 GMed: DnD 5E, Dark Heresy, a homebrew game based on the Gaslands skirmish game and using Call of Cthulhu rules for non-vehicular stuff.  
-
-##  
-
-My Pokéman card collection looks like <a href="https://docs.google.com/spreadsheets/d/1WPsSfE-zkyfsgZjD_Pv3mDOizteAEl79Ec6nH0cjnA0/edit?usp=sharing" target="_blank">this</a>.
-
-My Discord name is AstroCitrus1. 
 
 ## Pets, Current and Past:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Rocket_1.jpg?raw=true" alt="Rpcket 1" width="270" height="180"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/Rocket_2.jpg?raw=true" alt="Rocket 2" width="270" height="180">  
