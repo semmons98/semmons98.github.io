@@ -23,15 +23,15 @@ LOTR, *Star Wars*
 Dark Moor, NanowaR of Steel, The HU, The Longest Johns, StringStorm, Leslie Fish, Vic Tyler, VoicePlay, Sabaton, Queen, Five Iron Frenzy, and too many other too lists here...
 
 ## Tabletop Wargames:  
-Battletech, Trench Crusade (Abyssinia, Iron Wall, and Knights of Avarice), Bolt Action (Finland, Soviet Union, US Marines), and more.  
+Battletech, Trench Crusade (Abyssinia, Iron Wall, and Knights of Avarice), Bolt Action (Finland, Soviet Union, US Marines).  
 ### Warhammer:  
 40K: Space Marines/Blood Angels (Lamenters), Imperial Guard (Vostroyans), Imperial Knights (Homebrew house), Death Guard (I may turn this into a Heresy Army in the future - lot of my favorite units went to Legends at the beginning of 10th edition...).  
 30K: White Scars.  
 AOS: Cities of Sigmar (Formerly, GW got rid of the part I liked the most - the humans, elves, and dwarves working together).  
 
 ## TTRPGs:  
-Played: DnD 5E, Call of Cthulhu, Starfinder, Patherfinder, Cyberpunk Red, Knave, Mothership, All Flesh Must be Eaten, Vampire the Masquerade  
-GMed: DnD 5E, Dark Heresy, a homebrew game based on the Gaslands skirmish game and using Call of Cthulhu rules for non-vehicular stuff  
+Played: DnD 5E, Call of Cthulhu, Starfinder, Patherfinder, Cyberpunk Red, Knave, Mothership, All Flesh Must be Eaten, Vampire the Masquerade.  
+GMed: DnD 5E, Dark Heresy, a homebrew game based on the Gaslands skirmish game and using Call of Cthulhu rules for non-vehicular stuff.  
 
 My Pokéman card collection looks like <a href="https://docs.google.com/spreadsheets/d/1WPsSfE-zkyfsgZjD_Pv3mDOizteAEl79Ec6nH0cjnA0/edit?usp=sharing" target="_blank">this</a>.
 
