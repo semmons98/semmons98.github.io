@@ -22,12 +22,12 @@ My Pokéman card collection looks like <a href="https://docs.google.com/spreadsh
 Tabletop Wargames  
   Warhammer:  
     40K: Space Marines/Blood Angels (Lamenters), Imperial Guard (Vostroyans), Imperial Knights (Homebrew house), Death Guard (I may turn this into a Heresy Army in the future - lot of my favorite units went to Legends at the beginning of 10th edition...).  
-    30K: White Scars.  
+        30K: White Scars.  
     AOS: Cities of Sigmar (Formerly, GW got rid of the part I liked the most - the humans, elves, and dwarves working together).  
   Battletech, Trench Crusade (Abyssinia, Iron Wall, and Knights of Avarice), Bolt Action (Finland, Soviet Union, US Marines), and more.  
 
 TTRPGs:  
-  Played: DnD 5E, Call of Cthulhu, Starfinder, Patherfinder, Cyberpunk Red, Knave, Mothership, All Flesh Must be Eaten, Vampire the Masqurade  
+Played: DnD 5E, Call of Cthulhu, Starfinder, Patherfinder, Cyberpunk Red, Knave, Mothership, All Flesh Must be Eaten, Vampire the Masqurade  
   GMed: DnD 5E, Dark Heresy, a homebrew game based on the Gaslands skirmish game and using Call of Cthulhu rules for non-vehicular stuff  
 
 My Discord name is AstroCitrus1. 
