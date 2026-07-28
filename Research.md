@@ -17,7 +17,9 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ### PsycheESE (2025-2026)
 
-A link to the American Astronomical Society poster about this project from the 248th meeting can be found <a href="https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33" target="_blank">here</a>.
+This project started as the capstone for my astrophysics major (still a year before graduating due to my physics minor and planetary science certificate). Despite that, it is the first (and currently only) research I have done that is published in some way, in this case as an iPoster at the American Astronomical Society 248th meeting in June 2026. A link to the poster can be found <a href="https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33" target="_blank">here</a>.
+
+
 
 <!-- Describe project and the class process (PDR, CDR, etc.) -->
 
