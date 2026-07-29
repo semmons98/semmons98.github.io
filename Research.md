@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # Research
 
-Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. 
+Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. If you are interested in any of this work and want more details or have questions, please email me at semmons3@asu.edu
 
 ## Galaxies and Cosmology
 
@@ -41,7 +41,7 @@ Our outputs included both animations to visualize the seismic waves traveling th
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="600" height="361">  Homogeneous Model <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="600" height="361">  2-Layer Model <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="600" height="361">  "Blobby" Model
 
-In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, look at some of the Python scripts used to read the output data that are included in the Programming page of this website or email me with questions. 
+In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, I have also included a Python script used to read the data output by the simulations on the Programming page of this website. 
 
 ### Crater Counting on Charon (2023)
 
