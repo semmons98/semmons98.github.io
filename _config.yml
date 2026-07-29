@@ -4,6 +4,7 @@ plugins:
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Spencer Emmons
 color-scheme: auto
+math: mathjax
 platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
