@@ -23,7 +23,7 @@ The project lasted 2 semesters, the first was dedicated to conceptualization, st
 
 The second semester started with a Delta CDR, focusing on any changes that had occurred over winter break, and the rest of the semester was dedicated to actually doing the project. After setting up our computer, we iterated on our simulations, slowly ramping up the size and complexity as we found and fixed errors or other issues. 
 
-As for the research itself, we used the simulation software *SeisSol* to study the feasability of using artificial impacts and seismometers to study the interior of the asteroid (16) Psyche. We created three simplified models of the asteroid, a homogeneous rocky model, a two layer rock and metal model, and a "blobby" rock and metal model. 
+As for the research itself, we used the simulation software *SeisSol* to study the feasability of using artificial impacts and seismometers to study the interior of the asteroid (16) Psyche. We created three simplified models of the asteroid, a homogeneous rocky model, a two layer rock and metal model, and a "blobby" rock and metal model. Our simulated impactor was based on the Small Carry-On Impactor (SCI) from JAXA's Hayabusa2 mission and we used the noise floor of the VBB on the Seismic Experiment for Interior Structure (SEIS) from NASA's InSight mission on Mars. 
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="600" height="295">  Homogeneous Model <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="600" height="295">  2-Layer Model <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="600" height="295">  "Blobby" Model
 
@@ -31,7 +31,9 @@ For the other inputs, we approximated the impact's seismic moment tensor as an e
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/psycheese%20equations.png?raw=true" width="600" height="449">
 
-We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms (note, the animations are sped up 10 times):
+We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. There were some *fun* errors that were found and corrected as we worked, such as having the seismic efficiency being 8 orders of magntiude smaller than anything ever measured. It turns out that there were two issues causing this. First that we were including the seismic efficiency in our seismic moment tensor calculations as it was included in the original approximations. Fixing this helped, but the seismmi efficiency was still 3 orders of magnitude off. After several more simulations and experimenting with inputs, it turned out that because we had our simulated seismic source on the surface of the asteroid a large portion of the energy was being sent out into space instead of into the aseroid; the fix was to shrink the size of the source as small as we reasonably could and very slightly embed it inside the model. 
+
+Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms (note, the animations are sped up 10 times):
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="600" height="366">
  Homogeneous Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="600" height="366">
@@ -39,7 +41,7 @@ We also had to estimate the sheer modulus and Lamé's First Parameter for the ro
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="600" height="361">  Homogeneous Model <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="600" height="361">  2-Layer Model <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="600" height="361">  "Blobby" Model
 
-In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, or email me with questions. 
+In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, look at some of the Python scripts used to read the output data that are included in the Programming page of this website or email me with questions. 
 
 ### Crater Counting on Charon (2023)
 
