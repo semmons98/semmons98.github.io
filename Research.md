@@ -29,7 +29,7 @@ As for the research itself, we used the simulation software *SeisSol* to study t
 
 For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the Nishiyama et al. 2021 citation in the poster) which for us looks like: 
 
-$M=\sqrt{\frac{2}{3}}\begin{bmatrix}M_0\quad 0 \quad 0 \\0\quad M_0 \quad 0 \\0\quad 0\quad M_0\end{bmatrix}$
+$M=\sqrt{\frac{2}{3}}\begin{bmatrix}M_0& 0 & 0 \\0& M_0 & 0 \\0& 0& M_0\end{bmatrix}$
 
 $M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}$
 
