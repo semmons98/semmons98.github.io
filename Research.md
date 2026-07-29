@@ -17,13 +17,25 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ### PsycheESE (2025-2026)
 
-This project started as the capstone for my astrophysics major (still a year before graduating due to my physics minor and planetary science certificate). Despite that, it is the first (and currently only) research I have done that is published in some way, in this case as an iPoster at the American Astronomical Society 248th meeting in June 2026. A link to the poster can be found <a href="https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33" target="_blank">here</a>.
+This project started as the capstone for my astrophysics major (still a year before graduating due to my physics minor and planetary science certificate). Despite that, it is the first (and currently only) research I have done that is published in some way, in this case as an iPoster at the American Astronomical Society 248th meeting in June 2026. A link to the poster can be found <a href="https://aas242-aas.ipostersessions.com/?s=1B-39-73-D9-63-59-E7-2E-81-46-EB-7A-F9-7D-0F-33" target="_blank">here</a> and a GutHub repository with a guide to replicate our methodology, example files, and pdfs of our class presentations and report is <a href="https://github.com/semmons98/PsycheESE" target="_blank">here</a>.
 
 The project lasted 2 semesters, the first was dedicated to conceptualization, study, and planning. For this, the class somewhat followed the process used for projects at NASA and similar organizations - with each group writing and presenting an SRR, PDR, and CDR as well as maintaining subsystem ICDs throughout both semesters. Each group was required to have a Team Lead, Science Lead, and a Lead for each subsystem who was responsible for ensuring that subsystem was complete and functional (though all group members were expected to contribute to all subsystems). These roles were decided on by the group. I was the group's Science Lead - responsible for ensuring our project's output actually answered our science question and was heavily involved with several of the subsystems where I helped to provide accurate input parameters for the Model and Simulation subsystems and reasonable tests for the simulation's accuracy. 
 
-The second semester
+The second semester started with a Delta CDR, focusing on any changes that had occurred over winter break, and the rest of the semester was dedicated to actually doing the project. After setting up our computer, we iterated on our simulations, slowly ramping up the size and complexity as we found and fixed errors or other issues. 
 
-<!-- Describe second semester (Delta CDR to explain what changed over Winter Break), the project itself -->
+As for the research itself, we used the simulation software *SeisSol* to study the feasability of using artificial impacts and seismometers to study the interior of the asteroid (16) Psyche. We created three simplified models of the asteroid, a homogeneous model, a two layer model. 
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="600" height="450"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="600" height="450"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="600" height="450">
+
+For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the Nishiyama et al. 2021 citation in the poster) which for us looks like: 
+
+$\sqrt{\frac{2}{2}}\begin{bmatrix}
+        M_0\quad 0 \quad 0 \\
+        0\quad M_0 \quad 0 \\
+        0\quad 0\quad M_0
+    \end{bmatrix}$
+
+$M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}$
 
 ### Crater Counting on Charon (2023)
 
