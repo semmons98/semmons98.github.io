@@ -25,7 +25,7 @@ The second semester started with a Delta CDR, focusing on any changes that had o
 
 As for the research itself, we used the simulation software *SeisSol* to study the feasability of using artificial impacts and seismometers to study the interior of the asteroid (16) Psyche. We created three simplified models of the asteroid, a homogeneous rocky model, a two layer rock and metal model, and a "blobby" rock and metal model. 
 
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="1920" height="947"> Homogeneous Model <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="1920" height="947"> 2-Layer Model <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="1920" height="947"> "Blobby" Model
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="600" height="295"> Homogeneous Model <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="600" height="295"> 2-Layer Model <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="600" height="295"> "Blobby" Model
 
 For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the Nishiyama et al. 2021 citation in the poster) which for us looks like: 
 
@@ -44,9 +44,9 @@ $$
 
 We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms:
 
-<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="1490" height="910">
-Homogeneous Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="1490" height="910">
-2-Layer Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="1490" height="910"> "Blobby" Model
+<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="600" height="366">
+Homogeneous Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="600" height="366">
+2-Layer Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="600" height="366"> "Blobby" Model
 
 ### Crater Counting on Charon (2023)
 
