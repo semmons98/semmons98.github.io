@@ -48,11 +48,8 @@ Homogeneous Model
 "Blobby" Model  
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
-Homogeneous Model  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
-2-Layer Model  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
-"Blobby" Model  
 
 In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, I have also included a Python script used to read the data output by the simulations on the Programming page of this website. 
 
