@@ -5,4 +5,4 @@ I do research with Dr. Rogier Windhorst's cosmology research group at ASU - curr
 
 Outside of science I sometimes make silly python programs for fun and make games (mostly tabletop, though video games are not out of the question). 
 
-My full CV can be found <a href="{{ site.baseurl }}/pdfs/Full CV.pdf" target="_blank">here</a>, and I can be emailed at semmons3@asu.edu.
+My full CV can be found <a href="{{ site.baseurl }}/pdfs/CV Updated 7_29_26.pdf" target="_blank">here</a>, and I can be emailed at semmons3@asu.edu.
