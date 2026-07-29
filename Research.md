@@ -25,7 +25,11 @@ The second semester started with a Delta CDR, focusing on any changes that had o
 
 As for the research itself, we used the simulation software *SeisSol* to study the feasability of using artificial impacts and seismometers to study the interior of the asteroid (16) Psyche. We created three simplified models of the asteroid, a homogeneous rocky model, a two layer rock and metal model, and a "blobby" rock and metal model. Our simulated impactor was based on the Small Carry-On Impactor (SCI) from JAXA's Hayabusa2 mission and we used the noise floor of the VBB on the Seismic Experiment for Interior Structure (SEIS) from NASA's InSight mission on Mars. 
 
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="300" height="147">  Homogeneous Model  <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="300" height="147">  2-Layer Model  <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="300" height="147">  "Blobby" Model  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="300" height="147">  
+Homogeneous Model  <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="300" height="147">  
+2-Layer Model  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="300" height="147">  
+"Blobby" Model  
 
 For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the Nishiyama et al. 2021 citation in the poster) which for us looks like: 
 
@@ -35,11 +39,19 @@ We also had to estimate the sheer modulus and Lamé's First Parameter for the ro
 
 Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms (note, the animations are sped up 10 times):
 
-<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="300" height="233">
- Homogeneous Model  <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="300" height="233">
- 2-Layer Model  <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="300" height="233">  "Blobby" Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="300" height="233">  
+Homogeneous Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="300" height="233">  
+2-Layer Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="300" height="233">  
+"Blobby" Model  
 
-<img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  Homogeneous Model  <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  2-Layer Model  <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  "Blobby" Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
+Homogeneous Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
+2-Layer Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
+"Blobby" Model  
 
 In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, I have also included a Python script used to read the data output by the simulations on the Programming page of this website. 
 
