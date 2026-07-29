@@ -9,9 +9,13 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ## Galaxies and Cosmology
 
-### Quenching of Star Formation (2025-present)
+### Galactic Star Formation and Quenching (2025-present)
 
-<!-- Describe what I am currently working on, include how it took awhile to get started because I dove in without knowing much about the specific science being done or the methods, but I'm working through it now. -->
+This is my current project. It had had quite a bit of a learning curve as I was not particularly familiar with the methods - very much a "I know those words individually, but not together" kind of situation. That being said, I have Lea red a lot and am making progress on the project. 
+
+For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped. 
+
+So far, there are no results (even preliminary), but that will hopefully change on the coming weeks. 
 
 ## Planetary Science
 
