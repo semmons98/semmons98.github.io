@@ -29,24 +29,15 @@ As for the research itself, we used the simulation software *SeisSol* to study t
 
 For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the Nishiyama et al. 2021 citation in the poster) which for us looks like: 
 
-$$
-M=\sqrt{\frac{2}{3}}
-\begin{bmatrix}
-M_0 & 0 & 0 \\
-0 & M_0 & 0 \\
-0 & 0 & M_0
-\end{bmatrix}
-$$
-
-$$
-M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}
-$$
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/psycheese%20equations.png?raw=true" width="600" height="449">
 
 We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms:
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="600" height="366">
 Homogeneous Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="600" height="366">
 2-Layer Model <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="600" height="366"> "Blobby" Model
+
+<img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="600" height="361"> Homogeneous 80 Seconds <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%20180%20Seconds.png?raw=true" width="600" height="361"> Homogeneous 180 Seconds <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="600" height="361"> 2-Layer 80 Seconds <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%20180%20Seconds.png?raw=true" width="600" height="361"> 2-Layer 180 Seconds <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="600" height="361"> "Blobby" 80 Seconds <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%20180%20Seconds.png?raw=true" width="600" height="361"> "Blobby" 180 Seconds
 
 ### Crater Counting on Charon (2023)
 
