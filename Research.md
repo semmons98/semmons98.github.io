@@ -38,7 +38,9 @@ M_0 & 0 & 0 \\
 \end{bmatrix}
 $$
 
-$M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}$
+$$
+M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}
+$$
 
 ### Crater Counting on Charon (2023)
 
