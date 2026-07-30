@@ -43,7 +43,7 @@ We also had to estimate the sheer modulus and Lamé's First Parameter for the ro
 Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms (note, the animations are sped up 10 times):
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="300" height="233"><img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="300" height="233">  
-Homogeneous Model               2-Layer Model  
+Homogeneous Model and 2-Layer Model  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="300" height="233">  
 "Blobby" Model  
 
