@@ -44,7 +44,7 @@ Our outputs included both animations to visualize the seismic waves traveling th
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="300" height="233">
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="300" height="233">  
-Homogeneous Model 2-Layer Model  
+Homogeneous Model               2-Layer Model  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="300" height="233">  
 "Blobby" Model  
 
