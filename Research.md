@@ -11,11 +11,11 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ### Galactic Star Formation and Quenching (2025-present)
 
-This is my current project. It had had quite a bit of a learning curve as I was not particularly familiar with the methods - very much a "I know those words individually, but not together" kind of situation. That being said, I have Lea red a lot and am making progress on the project. 
+This is my current project. It had had quite a bit of a learning curve as I was not particularly familiar with the methods - very much a "I know those words individually, but not together" kind of situation. That being said, I have Learned a lot and am making progress on the project. 
 
 For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped. 
 
-So far, there are no results (even preliminary), but that will hopefully change on the coming weeks. 
+So far, there are no results, but that will hopefully change on the coming weeks. 
 
 ## Planetary Science
 
@@ -44,10 +44,9 @@ We also had to estimate the sheer modulus and Lamé's First Parameter for the ro
 
 Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms (note, the animations are sped up 10 times):
 
-<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="300" height="233">  
-Homogeneous Model  
+<img src="https://github.com/semmons98/PsycheESE/blob/main/animations/homogeneous%20animation.gif?raw=true" width="300" height="233">
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="300" height="233">  
-2-Layer Model  
+Homogeneous Model 2-Layer Model  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="300" height="233">  
 "Blobby" Model  
 
