@@ -45,7 +45,7 @@ Homogeneous Model
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/2%20layer%20optimized%20animation.gif?raw=true" width="300" height="233">  
 2-Layer Model  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/animations/blobby%20optimized%20animation.gif?raw=true" width="300" height="233">  
-"Blobby" Model (note that due to the random distribution of the blobs, this cross-section only intersects 2 of them)
+"Blobby" Model (note that due to the random distribution of the blobs, this cross-section only intersects 2 of them)  
 
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Homogeneous%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/2-layer%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
