@@ -29,7 +29,7 @@ The second semester started with a Delta CDR, focusing on any changes that had o
 
 As for the research itself, we used the simulation software *SeisSol* to study the feasability of using artificial impacts and seismometers to study the interior of the asteroid (16) Psyche. We created three simplified models of the asteroid, a homogeneous rocky model, a two layer rock and metal model, and a "blobby" rock and metal model. Our simulated impactor was based on the Small Carry-On Impactor (SCI) from JAXA's Hayabusa2 mission and we used the noise floor of the VBB on the Seismic Experiment for Interior Structure (SEIS) from NASA's InSight mission on Mars. 
 
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="200" height="106"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="200" height="106"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="200" height="106">  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="199" height="106"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="199" height="106"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="199" height="106">  
 The three models
 
 For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the Nishiyama et al. 2021 citation in the poster) which for us looks like: 
