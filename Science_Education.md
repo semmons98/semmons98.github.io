@@ -83,7 +83,7 @@ Borrowed from the extra credit quiz written by another TA, Gibson Bowling. The h
 
 Question 6:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%206.png?raw=true" height=724 width=669>  
-This one was written by me, but inspired by (insert textbook name and section here).
+This one was written by me, but inspired by <!-- insert textbook name and section here -->.
 
 Question 7:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%207.png?raw=true" height=724 width=669>  
