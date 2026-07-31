@@ -52,7 +52,12 @@ Galaxy Morphology (S26)
 Hubble Expansion (S26)
 <a href="{{ site.baseurl }}/pdfs/slides/Hubble Expansion S26.pdf" target="_blank">Hubble Expansion</a>  
 
-### Extra Credit Quiz
+### Extra Credit Quiz (F25)
+At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission to create their own extra credit assignments for their students, not everyone did, but I wrote this quiz. 
+
+The questions came from several sources, one from another TA's extra credit quiz, some were modified from various astronomy textbooks, and others I wrote entirely myself. The quiz was intended to be difficult but not impossible for students at this level. All questions were free response so students could show as much work as they wanted - I graded it on both correctness *and* effort. The amount of extra credit was *up to* one full lab. 
+
+The questions are below in the form of screenshots. 
 
 ### Student AI Usage
 
