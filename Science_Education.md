@@ -59,27 +59,39 @@ The questions came from several sources, one from another TA's extra credit quiz
 
 The questions are below in the form of screenshots. 
 
+Question 1:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%201.png?raw=true" height=724 width=669>  
 This question was written by me, it is based on a picture from one of the pre-written slides which I noticed some issues with while presenting it. It turns out I was wrong about one of the errors (I miss-identified the constellation being used to point to Polaris) - one of my students in their answer actually pointed out a different error I hadn't noticed - the Earth is spinning the wrong way.  
 
 The answers are The Earth's rotation direction and the location of the North Pole on Earth's surface. 
 
+Question 2:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=724 width=669>  
 
+Question 3:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%203.png?raw=true" height=724 width=669>  
+From textbook <!-- add which textbook -->
 
+Question 4:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%204.png?raw=true" height=724 width=669>  
+Borrowed from the extra credit quiz written by another TA, Gibson Bowling <!-- double check spelling of his name -->
 
+Question 5:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%205.png?raw=true" height=724 width=669>  
 
+Question 6:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%206.png?raw=true" height=724 width=669>  
 
+Question 7:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%207.png?raw=true" height=724 width=669>  
 
+Question 8:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%208.png?raw=true" height=724 width=669>  
 
+Question 9:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%209.png?raw=true" height=724 width=669>  
 
+Question 10:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%2010.png?raw=true" height=724 width=669>  
 
 <!--
