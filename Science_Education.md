@@ -64,8 +64,26 @@ This question was written by me, it is based on a picture from one of the pre-wr
 
 The answers are The Earth's rotation direction and the location of the North Pole on Earth's surface. 
 
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%203.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%204.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%205.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%206.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%207.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%208.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%209.png?raw=true" height=724 width=669>  
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%2010.png?raw=true" height=724 width=669>  
+
 <!--
-add the other questions and adjust the sizes
+Adjust the image sizes, currently all the same pixels as Question q.
 -->
 
 ### Student AI Usage
