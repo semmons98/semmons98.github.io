@@ -16,38 +16,34 @@ When teaching a lab, I usually start with a brief, 5-10 minute, presentation int
 Spectroscopy
 
 Parallax and Proper Motion (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Parallax%20and%20Proper%20Motion%20S26.pptx" target="_blank">Parallax and Proper Motion</a>
-
-<a href="{{ site.baseurl }} /pptx/Parallax and Proper Motion S26.pptx" target="_blank">Parallax and Proper Motion</a>
+<a href="{{ site.baseurl }} /pdf/slides/Parallax and Proper Motion S26.pdf" target="_blank">Parallax and Proper Motion</a>
 
 Intro to the Night Sky (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Intro%20to%20the%20Night%20Sky%20S26.pptx" target="_blank">Intro to the Night Sky</a>
+<a href="{{ site.baseurl }} /pdf/slides/Intro to the Night Sky S26.pdf" target="_blank">Intro to the Night Sky</a>
 
 Intro to Telescopes (S26)
-This one is in .pdf form due to file size limits on GitHub.
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Intro%20to%20Telescopes%20S26.pdf" target="_blank">Into to Telescopes</a>
+<a href="{{ site.baseurl }} /pdf/slides/Intro to Telescopes S26.pdf" target="_blank">Intro to Telescopes</a>
 
 Magnitudes and Stellar Brightness (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Magnitudes%20and%20Stellar%20Brightness%20S26.pptx" target="_blank">Magnitudes and Stellar Brightness</a>
+<a href="{{ site.baseurl }} /pdf/slides/Magnitudes and Stellar Brightness S26.pdf" target="_blank">Magnitudes and Stellar Brightness</a>
 
 General Observing (S26)
-This one is in .pdf form due to file size limits on GitHub.
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/General%20Observing%20S26.pdf" target="_blank">General Observing</a>
+<a href="{{ site.baseurl }} /pdf/slides/General Observing S26.pdf" target="_blank">General Observing</a>
 
 Variable Stars (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Variable%20Stars%20S26.pptx" target="_blank">Variable Stars</a>
+<a href="{{ site.baseurl }} /pdf/slides/Variable Stars S26.pdf" target="_blank">Variable Stars</a>
 
 HR Diagrams (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/HR%20Diagrams%20S26.pptx" target="_blank">HR Diagrams</a>
+<a href="{{ site.baseurl }} /pdf/slides/HR Diagrams S26.pdf" target="_blank">HR Diagrams</a>
 
 Open Clusters (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Open%20Clusters%20S26.pptx" target="_blank">Open Clusters</a>
+<a href="{{ site.baseurl }} /pdf/slides/Open Clusters S26.pdf" target="_blank">Open Clusters</a>
 
 Galaxy Morphology (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Galaxy%20Morphology%20S26.pptx" target="_blank">Galaxy Morphology</a>
+<a href="{{ site.baseurl }} /pdf/slides/Galaxy Morphology S26.pdf" target="_blank">Galaxy Morphology</a>
 
 Hubble Expansion (S26)
-<a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Hubble%20Expansion%20S26.pptx" target="_blank">Hubble Expansion</a>
+<a href="{{ site.baseurl }} /pdf/slides/Hubble Expansion S26.pdf" target="_blank">Hubble Expansion</a>
 
 ### Extra Credit Quiz
 
