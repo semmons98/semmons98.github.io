@@ -67,32 +67,39 @@ The answers are The Earth's rotation direction and the location of the North Pol
 
 Question 2:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=724 width=669>  
+Borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
 
 Question 3:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%203.png?raw=true" height=724 width=669>  
-From textbook <!-- add which textbook -->
+Borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
 
 Question 4:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%204.png?raw=true" height=724 width=669>  
-Borrowed from the extra credit quiz written by another TA, Gibson Bowling <!-- double check spelling of his name -->
+Borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
 
 Question 5:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%205.png?raw=true" height=724 width=669>  
+Borrowed from the extra credit quiz written by another TA, Gibson Bowling. The hint on part a came from me. <!-- double check spelling of his name -->
 
 Question 6:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%206.png?raw=true" height=724 width=669>  
+This one was written by me, but inspired by (insert textbook name and section here).
 
 Question 7:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%207.png?raw=true" height=724 width=669>  
+This question was taken from <!-- insert textbook name and section here -->
 
 Question 8:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%208.png?raw=true" height=724 width=669>  
+This question was written by me.
 
 Question 9:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%209.png?raw=true" height=724 width=669>  
+This question was written by me.
 
 Question 10:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%2010.png?raw=true" height=724 width=669>  
+This question was written by me.
 
 <!--
 Adjust the image sizes, currently all the same pixels as Question q.
