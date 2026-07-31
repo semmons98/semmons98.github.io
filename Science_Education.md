@@ -13,7 +13,7 @@ I've been TAing for ASU introductory astronomy classes (with Dr. Rogier Windhors
 ### Slide Decks/Presentations
 When teaching a lab, I usually start with a brief, 5-10 minute, presentation introducing/reviewing the topic with the students. During my first semester as a TA, I mainly used slides made by other TAs in previous years with a few updates where needed. My second semester as a TA I started writing the slides myself both to help me refresh my own understanding of the topics, and so I could more effectively present the information. These slides are below, and more will be added as I write and/or update them for the current semester (some labs are used for both AST 111 and AST 112). 
 
-Spectroscopy
+Spectroscopy (S26)
 <a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy S26.pdf" target="_blank">Spectroscopy</a>
 
 Parallax and Proper Motion (S26)
