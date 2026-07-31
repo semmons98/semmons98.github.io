@@ -18,7 +18,7 @@ Spectroscopy
 Parallax and Proper Motion (S26)
 <a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Parallax%20and%20Proper%20Motion%20S26.pptx" target="_blank">Parallax and Proper Motion</a>
 
-<a href="{{ site.baseurl }}/ppptx/Parallax and Proper Motion S26.pptx" target="_blank">Parallax and Proper Motion</a>
+<a href="{{ site.baseurl }} /pptx/Parallax and Proper Motion S26.pptx" target="_blank">Parallax and Proper Motion</a>
 
 Intro to the Night Sky (S26)
 <a href="https://github.com/semmons98/semmons98.github.io/blob/main/pptx/Intro%20to%20the%20Night%20Sky%20S26.pptx" target="_blank">Intro to the Night Sky</a>
