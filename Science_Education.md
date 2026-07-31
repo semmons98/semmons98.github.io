@@ -59,7 +59,7 @@ The questions came from several sources, one from another TA's extra credit quiz
 
 The questions are below in the form of screenshots. 
 
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%201.png?raw=true" width="200" height="150">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%201.png?raw=true">
 
 ### Student AI Usage
 
