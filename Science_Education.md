@@ -64,7 +64,7 @@ Question 1:
 This question was written by me, it is based on a picture from one of the pre-written slides which I noticed some issues with while presenting it. It turns out I was wrong about one of the errors (I miss-identified the constellation being used to point to Polaris) - one of my students in their answer actually pointed out a different error I hadn't noticed - the Earth is spinning the wrong way.  
 
 Question 2:  
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=724 width=669>  
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=469 width=600>  
 Borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
 
 Question 3:  
