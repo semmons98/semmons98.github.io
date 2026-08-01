@@ -69,7 +69,7 @@ This question was borrowed from the extra credit quiz written by another TA, Gib
 
 Question 3:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%203.png?raw=true" height=551 width=600>  
-This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. 
+This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. Though, I remember getting a similar question myself on some homework a few years prior, so he may have gotten it from there. 
 
 Question 4:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%204.png?raw=true" height=417 width=600>  
@@ -81,11 +81,11 @@ This question was borrowed from the extra credit quiz written by another TA, Gib
 
 Question 6:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%206.png?raw=true" height=307 width=600>  
-This one was written by me, but inspired by <!-- insert textbook name and section here -->.
+This question comes from *A Student's Guide to the Mathematics of Astronomy* by Daniel Fleisch and Julia Kregenow, 9th edition, chapter 2, question 2.9. Everything before "How far" as well as the hint were written by me to give the students additional background information. 
 
 Question 7:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%207.png?raw=true" height=291 width=600>  
-This question was taken from <!-- insert textbook name and section here -->
+This question was also taken from *A Student's Guide to the Mathematics of Astronomy*, chapter 2 in this case question 2.11. I added everything from the equation for the force of gravity and onward. 
 
 Question 8:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%208.png?raw=true" height=670 width=600>  
