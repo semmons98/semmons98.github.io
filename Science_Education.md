@@ -57,13 +57,11 @@ At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission t
 
 The questions came from several sources, one from another TA's extra credit quiz, some were modified from various astronomy textbooks, and others I wrote entirely myself. The quiz was intended to be difficult but not impossible for students at this level. All questions were free response so students could show as much work as they wanted - I graded it on both correctness *and* effort. The amount of extra credit was *up to* one full lab. 
 
-The questions are below in the form of screenshots. 
+The questions are below in the form of screenshots. The answers are left out (with one exception) in case of the extremely small chance a future student finds this page, and I decide to reuse this quiz.
 
 Question 1:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%201.png?raw=true" height=724 width=669>  
 This question was written by me, it is based on a picture from one of the pre-written slides which I noticed some issues with while presenting it. It turns out I was wrong about one of the errors (I miss-identified the constellation being used to point to Polaris) - one of my students in their answer actually pointed out a different error I hadn't noticed - the Earth is spinning the wrong way.  
-
-The answers are The Earth's rotation direction and the location of the North Pole on Earth's surface. 
 
 Question 2:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=724 width=669>  
