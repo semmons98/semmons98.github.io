@@ -65,19 +65,19 @@ This question was written by me, it is based on a picture from one of the pre-wr
 
 Question 2:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=469 width=600>  
-This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
+This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. 
 
 Question 3:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%203.png?raw=true" height=551 width=600>  
-This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
+This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. 
 
 Question 4:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%204.png?raw=true" height=417 width=600>  
-This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. <!-- double check spelling of his name -->
+This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. 
 
 Question 5:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%205.png?raw=true" height=533 width=600>  
-This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. The hint on part a came from me. <!-- double check spelling of his name -->
+This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. The hint on part a came from me. 
 
 Question 6:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%206.png?raw=true" height=307 width=600>  
