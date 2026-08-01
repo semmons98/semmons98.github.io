@@ -3,7 +3,9 @@ plugins:
 - jekyll-remote-theme
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Spencer Emmons
-color-scheme: auto
+#color-scheme: auto
+color-scheme: light
+#color-scheme: dark
 platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
