@@ -26,6 +26,7 @@ As an astronomy student I have spent a fair amount of time programming for class
 ### Golden Ratio Distance Conversion
 
 '''python
+
 import matplotlib.pyplot as plt
 
 def fibonacci(n):
@@ -46,6 +47,7 @@ error = percent_error(calc_kilometers,(miles * 1.60934))
 print(f'Fibonacci estimate: {calc_kilometers}km')
 print(f'Actual value: {miles * 1.60934}km')
 print(f'{error}% error')
+
 '''  
 
 <!--
