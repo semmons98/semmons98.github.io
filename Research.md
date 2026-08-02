@@ -15,7 +15,7 @@ This is my current project. It had had quite a bit of a learning curve as I was 
 
 For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped. 
 
-So far, there are no results, but that will hopefully change on the coming weeks. 
+So far, there are no results, but that will hopefully change in the coming weeks. 
 
 ## Planetary Science
 
