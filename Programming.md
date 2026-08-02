@@ -26,7 +26,6 @@ As an astronomy student I have spent a fair amount of time programming for class
 ### Golden Ratio Distance Conversion
 
 '''python
-
 import matplotlib.pyplot as plt
 
 def fibonacci(n):
