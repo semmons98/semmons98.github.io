@@ -42,7 +42,9 @@ $$
     \end{bmatrix}
 $$
 
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/psycheese%20equations.png?raw=true" width="200" height="150">
+$$
+M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}
+$$
 
 We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. There were some *fun* errors that were found and corrected as we worked, such as having the seismic efficiency being 8 orders of magntiude smaller than anything ever measured. It turns out that there were two issues causing this. First that we were including the seismic efficiency in our seismic moment tensor calculations as it was included in the original approximations. Fixing this helped, but the seismmi efficiency was still 3 orders of magnitude off. After several more simulations and experimenting with inputs, it turned out that because we had our simulated seismic source on the surface of the asteroid a large portion of the energy was being sent out into space instead of into the aseroid; the fix was to shrink the size of the source as small as we reasonably could and very slightly embed it inside the model. 
 
