@@ -61,5 +61,5 @@ Cooper and Biscuit
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/hand.jpg?raw=true" width="270" height="180">
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/pythagoras.jpg?raw=true" width="270" height="180">
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/euler.jpg?raw=true" width="270" height="180">
-<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/perry20%the20%laplace20%transform.jpg?raw=true" width="270" height="180">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/perry%20the%20laplace%20transform.jpg?raw=true" width="270" height="180">
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/loss.jpg?raw=true" width="540" height="138">
