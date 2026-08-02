@@ -13,7 +13,7 @@ As an astronomy student I have spent a fair amount of time programming for class
 
 ## Coding for Classes
 
-
+### Planetary Atmospheres Lab (AST 111 TA)
 
 ## Silly Code and Games
 
