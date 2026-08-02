@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Science Education
-permalink: /science_education/extra_credit_quiz
+permalink: /science_education/extra_credit_quiz/
 ---
 # Extra Credit Quiz (F25)
 
