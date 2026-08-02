@@ -15,7 +15,7 @@ Question 2:
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%202.png?raw=true" height=469 width=600>  
 This question was borrowed from the extra credit quiz written by another TA, Gibson Bowling. 
 
-Answer(s): a. $v=\sqrt{2gh}$, b. Tripliing the mass has no effect, tripling the height increases the velocity by $\sqrt{3}$, c. Impact velocity has a stronger effect. 
+Answer(s): a. $v=\sqrt{2gh}$, b. Tripling the mass has no effect, tripling the height increases the velocity by $\sqrt{3}$, c. Impact velocity has a stronger effect. 
 
 Question 3:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%203.png?raw=true" height=551 width=600>  
