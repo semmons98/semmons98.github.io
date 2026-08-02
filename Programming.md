@@ -25,13 +25,7 @@ As an astronomy student I have spent a fair amount of time programming for class
 
 ### Golden Ratio Distance Conversion
 
-'''python  
-
-"""
-Created on Wed Dec  3 09:26:51 2025
-
-@author: semmo
-"""
+'''python
 
 import matplotlib.pyplot as plt
 
