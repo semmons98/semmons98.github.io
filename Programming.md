@@ -25,7 +25,12 @@ As an astronomy student I have spent a fair amount of time programming for class
 
 ### Golden Ratio Distance Conversion
 
-'''python
+```python
+"""
+Created on Wed Dec  3 09:26:51 2025
+
+@author: semmo
+"""
 
 import matplotlib.pyplot as plt
 
@@ -47,8 +52,7 @@ error = percent_error(calc_kilometers,(miles * 1.60934))
 print(f'Fibonacci estimate: {calc_kilometers}km')
 print(f'Actual value: {miles * 1.60934}km')
 print(f'{error}% error')
-
-'''  
+```
 
 <!--
 Include tic-tac-toe, fibonnacci, any school or research python scripts that seem appropriate/good enough to share. Include something about the space game I am planning. Include possible additions to the current programs (other games or modes that would work well with tic-tac-toe, using the actual Fibonacci Sequence for the Golden Ratio conversion, etc.
