@@ -3,7 +3,7 @@ Hi, I'm Spencer Emmons. I'm an undergraduate student at Arizona State University
 
 I do research with Dr. Rogier Windhorst's cosmology research group at ASU - currently using JWST images to study star formation and quenching at cosmic noon. I have also contributed to projects relating to planetary science and astrobiology in the past. I also work as an undergraduate TA for the lab portions of ASU's Intro Astronomy for Non-Majors (AST 111 and AST 112).
 
-Outside of science I sometimes make silly python programs for fun and make games (mostly tabletop, though video games are not out of the question). 
+Outside of science I sometimes make silly python programs for fun and make and play games. 
 
 My full CV can be found <a href="{{ site.baseurl }}/pdfs/CV Updated 7_29_26.pdf" target="_blank">here</a>, and I can be emailed at semmons3@asu.edu.
 
