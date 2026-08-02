@@ -55,13 +55,13 @@ Hubble Expansion (S26)
 ### Extra Credit Quiz (F25)
 At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission to create their own extra credit assignments for their students, not everyone did, but I wrote this quiz. 
 
-The questions came from several sources, one from another TA's extra credit quiz, some were modified from various astronomy textbooks, and others I wrote entirely myself. The quiz was intended to be difficult but not impossible for students at this level. All questions were free response so students could show as much work as they wanted - I graded it on both correctness *and* effort. The amount of extra credit was *up to* one full lab. For the sake of keeping this page organized, the quiz (in the form of screenshots) and answers are on a different page, found <a href="https://semmons98.github.io/science_education/extra_credit_quiz/" target="_blank">here</a>.
+The questions came from several sources, one from another TA's extra credit quiz, some were modified from astronomy textbooks, and others I wrote entirely myself. The quiz was intended to be difficult but not impossible for students at this level. All questions were free response so students could show as much work as they wanted - I graded it on both correctness *and* effort. The amount of extra credit was *up to* one full lab. For the sake of keeping this page organized, the quiz (in the form of screenshots) and answers are on a different page, found <a href="https://semmons98.github.io/science_education/extra_credit_quiz/" target="_blank">here</a>.
 
 I'm not entirely happy with all of the borrowed questions, as they are primarily having students do calculations that they haven't really learned how to do at this level. In future versions focus on questions the the last three, where they need to apply ideas they have learned sometimes synthesise new ideas building on what they learned in class. 
 
 ### Student AI Usage
 
 <!--
-Include the extra credit quiz I wrote for AST 111 and a discussion of how I have tried to combat AI use by students. 
+Include a discussion of how I have tried to combat AI use by students. 
 (add outreach like sonification stuff when I actually do it).
 -->
