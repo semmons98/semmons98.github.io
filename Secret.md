@@ -58,3 +58,8 @@ Cooper and Biscuit
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/languages_of_western_europe.jpg?raw=true" width="270" height="180">
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/i-love-neil-the-seal-of-tasmania-but-could-anyone-explain-v0-5jundku0dx7h1.png?raw=true" width="270" height="200">
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/mountain_do.jpg?raw=true" width="270" height="180">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/hand.jpg?raw=true" width="270" height="180">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/pythagoras.jpg?raw=true" width="270" height="180">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/euler.jpg?raw=true" width="270" height="180">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/perry20%the20%laplace20%transform.jpg?raw=true" width="270" height="180">
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/memes/loss.jpg?raw=true" width="540" height="138">
