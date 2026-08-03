@@ -12,7 +12,56 @@ While I do not like AI for cheating on schoolwork/education or for doing art, it
 ## Research Code
 
 ### PsycheESE Receiver Reader Script
+I wrote this script as part of the PsycheESE Project that was my astrophysics major's capstone. It reads the receiver (simulated seismometer) output files from SeisSol and plots the results. As for how it works, first it loads the file and skips the first 2 rows as they are the header (there are commented out lines to instead only load a portion of the data if desired), it then splits this into the time (the first column of the output file), and the ground velocity in each direction. Adding additional lines of code for the stress outputs is easy, they are indexed 1-6. Then the program scales the time data so that the plots will have seconds rather then number of time steps for the x-axis, and takes the derivative of the ground velocity data to get the ground acceleration. Then the plots are made. 
 
+```python
+
+"""
+Created on Sat Apr  4 22:10:59 2026
+
+@author: semmo
+"""
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+#Load Data
+data = np.loadtxt('your_file_path',skiprows=2)
+#load first 160000 data points (80 seconds)
+#data = np.loadtxt('your_file_path',skiprows=2,max_rows=160000)
+#load first 65000 data points
+#data = np.loadtxt('your_file_path',skiprows=2,max_rows=65000)
+#load first 135000 data points
+#data = np.loadtxt('your_file_path',skiprows=2,max_rows=135000)
+
+#Split Data
+time = data[:, 0]
+vx = data[:, 7]
+vy = data[:, 8]
+vz = data[:, 9]
+dt = 0.0005
+
+#Scale time data
+x_scaled = np.arange(len(data)) * dt
+
+#Take derivative of velocity to get acceleration
+dxdx = np.gradient(vx)
+dydx = np.gradient(vy)
+dzdx = np.gradient(vz)
+
+#Plot velocities
+#plt.plot(x_scaled, vx, label='Vx')
+#plt.plot(x_scaled, vy, label='Vy')
+#plt.plot(x_scaled, vz, label='Vz')
+
+#Total Acceleration
+ddx = dxdx + dydx + dzdx
+
+#Plot ground accelerations
+#plt.plot(x_scaled, dxdx, label='dxdx')
+#plt.plot(x_scaled, dydx, label='dydx')
+#plt.plot(x_scaled, dzdx, label='dzdx')
+```
 
 ## Coding for Classes/TAing
 
