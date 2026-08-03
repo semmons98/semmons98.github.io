@@ -5,7 +5,7 @@ permalink: /programming/
 ---
 # Programming
 
-As an astronomy student I have spent a fair amount of time programming for classes or for research, but I also often enjoy making silly programs. I primarily know and use Python, though I am certainly happy to learn other languages. This page includes project descriptions and the code for much of what I have written, both serious class or research projects, and fun personal projects. 
+As an astronomy student I have spent a fair amount of time programming for classes or for research, but I also often enjoy making silly programs. I primarily know and use Python, though I am certainly happy to learn other languages. This page includes project descriptions and the code for much of what I have written, both serious projects for research or classes, and fun/silly personal projects. 
 
 While I do not like AI for cheating on schoolwork/education or for doing art, it is sometimes useful for programming. That being said, I don't trust AI to do all coding for me, especially not the free models I have access to. I prefer to do as much of the programming as possible myself - it both helps keep me sharper and able to explain the code to others when needed. When I do use AI for coding beyond debugging (which it is *usually* pretty good at), I have it explain everything it does in detail so I can both double check its work, and learn myself so I won't need to use it as much in the future. On this page, anywhere I used AI for more the debugging will be listed in the project's description. 
 
@@ -191,8 +191,5 @@ print(f'Actual value: {miles * 1.60934}km')
 print(f'{error}% error')
 ```
 
-### Currently Unamed Space Game
-
-<!--
-Include tic-tac-toe, any school or research python scripts that seem appropriate/good enough to share, etc. Include something about the space game I am planning. Include possible additions to the current programs (other games or modes that would work well with tic-tac-toe, using the actual Fibonacci Sequence for the Golden Ratio conversion, etc.
--->
+<!--### Currently Unamed Space Game
+There is no code for this yet as it is primarily juat a concept and I have a couple different versions of it in my head as possibilities, but the idea is for a game (either turn-based or real-time) that has you commanding a space ship (or maybe several) in sci-fi style space battles albeit with (more or less) real-world physics. The plan would be to use vectors - in Python terms a list of 3 numbers - and vector operations to control movement. Additonally, the player wouldn't "move" from the perspective of the game, I think it would be easier to program if the player is fixed at the center of a spherical space and their "acceleration" and "velocity" were just added to other ships when they move. I will add more to this when I eventually get around to starting making it. -->
