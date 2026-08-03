@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programming
-permalink: /programming/matplotlib_tictactoe
+permalink: /programming/matplotlib_tictactoe/
 ---
 # matplotlib tictactoe
 
