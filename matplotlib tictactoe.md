@@ -5,7 +5,7 @@ permalink: /programming/matplotlib_tictactoe/
 ---
 # matplotlib tictactoe
 
-'''python
+```python
 
 """
 Created on Sun Nov  9 13:47:18 2025
@@ -680,5 +680,4 @@ for key in full_talk_options:
 print(talk(full_talk_options))'''
 #Main Game
 menu()
-
-'''
+```
