@@ -5,8 +5,6 @@ Created on Wed Dec  3 09:26:51 2025
 @author: semmo
 """
 
-import matplotlib.pyplot as plt
-
 def fibonacci(n):
     a = 0
     b = 1
