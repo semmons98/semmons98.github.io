@@ -62,7 +62,7 @@ full_talk_options = {0:"...",1:"d'oh",2:"oof",3:"Well screw you too", 4:"When yo
                 86:"Are you allergic to winning?",87:"Ooh, a rare spark of competence",88:"Do better",
                 89:"You have the board awareness of a houseplant",90:"You make an excellent argument for automation",
                 91:"Oh, you think board is your ally.\nBut you merely adopted the board; I was born in it, molded by it.\nI didn't see the light until I was already a man",
-                92:"Live, Laugh, Lose",93:"Rip and tear until it is done",94:"Why?",95:"Three by three, nine squares, infinite disappointment!",
+                92:"Live, Laugh, Lose",93:"Rip and tear until it is done",94:"Why?",95:"huh",
                 96:"Reactor Online. Sensors Online. Weapons Online. All Systems Nominal",97:"I’d call that a strategy, but that implies intent",
                 98:"That’s one small step for man, one giant leap for mediocrity",99:"And the human falls for it again! Incredible consistency!",
                 100:"The Machine Spirit rejects your victory",101:"I sense much fear in you",102:"Fascinating",
