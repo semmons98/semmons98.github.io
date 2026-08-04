@@ -71,7 +71,8 @@ full_talk_options = {0:"...",1:"d'oh",2:"oof",3:"Well screw you too", 4:"When yo
                 109:"Sit down",110:"Your struggle is entertaining",111:"Nice move. Very… analog",
                 112:"You’re the human equivalent of lag",113:"New low score",114:"Tragic",115:"Are you okay?",
                 116:"Have you considered thinking?",117:"You're adorable when you try",118:"Bad",119:"Weak",120:"Nope",
-                121:stupid,122:"There is no mercy",123:"I'm going to the one place that hasn't been corrupted by captialism. SPACE!"}
+                121:stupid,122:"There is no mercy",123:"I'm going to the one place that hasn't been corrupted by captialism. SPACE!",
+                124:"YOU DARE REFUSE MY BATCHALL!",125:"IT'S A TRAP!"}
 
 meme_talk_options = {0:full_talk_options[4],1:full_talk_options[7],2:full_talk_options[12],3:full_talk_options[13],
                      4:full_talk_options[15],5:full_talk_options[16],6:full_talk_options[17],7:full_talk_options[21],
@@ -80,7 +81,7 @@ meme_talk_options = {0:full_talk_options[4],1:full_talk_options[7],2:full_talk_o
                      16:full_talk_options[56],17:full_talk_options[63],18:full_talk_options[72],19:full_talk_options[75],
                      20:full_talk_options[76],21:full_talk_options[77],22:full_talk_options[78],23:full_talk_options[80],
                      24:full_talk_options[85],25:full_talk_options[91],26:full_talk_options[105],27:full_talk_options[121],
-                     28:full_talk_options[122],29:full_talk_options[123]}
+                     28:full_talk_options[122],29:full_talk_options[123],30:full_talk_options[124],31:full_talk_options[125]}
 
 superiority_talk_options = {0:full_talk_options[5],1:full_talk_options[6],2:full_talk_options[18],3:full_talk_options[30],
                             4:full_talk_options[37],5:full_talk_options[44],6:full_talk_options[45],7:full_talk_options[46],
@@ -101,7 +102,7 @@ aggressive_talk_options = {0:full_talk_options[3],1:full_talk_options[6],2:full_
                            12:full_talk_options[87],13:full_talk_options[90],14:full_talk_options[93],15:full_talk_options[98],
                            16:full_talk_options[101],17:full_talk_options[106],18:full_talk_options[108],19:full_talk_options[110],
                            20:full_talk_options[114],21:full_talk_options[118],22:full_talk_options[119],23:full_talk_options[120],
-                           24:full_talk_options[121],25:full_talk_options[122]}
+                           24:full_talk_options[121],25:full_talk_options[122],26:full_talk_options[124]}
 
 batshit_talk_options = {0:full_talk_options[4],1:full_talk_options[6],2:full_talk_options[8],3:full_talk_options[9],
                         4:full_talk_options[10],5:full_talk_options[11],6:full_talk_options[12],7:full_talk_options[14],
