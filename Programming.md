@@ -159,7 +159,7 @@ I had this idea after chatting with a friend before a research group meeting, in
 
 Generative AI (ChatGPT - I can't remember which version, but based on the when this was made it was probably 5.0 and/or 5.1) was used to figure out the logic for the level 3 computer opponent (I then modified this logic for the level 2 computer opponent), as well as figuring out how to allow for LaTeX symbols to be valid options for the player(s).
 
-For the sake of keeping this page readable, I have put the code onto a separate page, linked <a href="https://semmons98.github.io/programming/matplotlib_tictactoe/" target="_blank">here</a>.
+For the sake of keeping this page readable, I have put the code onto a separate page, linked <a href="https://semmons98.github.io/programming/matplotlib_tictactoe/" target="_blank">here</a>. 
 
 ### Golden Ratio Distance Conversion
 This was based on a meme I saw online about how the conversion between miles and kilometers was close to the Golden Ratio. The code takes an input integer number of miles from the user, then finds the next fibonacci number after that integer and prints it as the estimated number of kilometers. It then also calculates the actual unit conversion, printing that and the percent error. Though this was just something I did for fun, in the future I may comeback and add the ability to convert the other way (kilometers to miles). 
