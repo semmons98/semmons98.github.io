@@ -9,13 +9,13 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ## Galaxies and Cosmology
 
-### Galactic Inside Out Growth (2025-present)
+### Galacty Inside Out Growth (2025-present)
 
 This is my current project. Getting started took awhile due to both my limited knowledge of the methods used, and some technical issues. That being said, we are making progress now and I have Learned a lot on this project. 
 
 For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped - specifically to study inside out growth.
 
-At the current update (8/7/26), the results are very preliminary and work-in-progress, but they do seem to support inside out star formation. There are a few of galaxies that are extreme outliers - these seem to mostly, if not entirely, poor fits that may need to be improved. For example, some of the models appear to have a very faint ring extending several times the galaxies radius beyond it which is not present in the JWST image. 
+At the current update (8/7/26), the results are very preliminary and work-in-progress, but they do seem to support inside out star formation. There are a few of galaxies that are extreme outliers - these seem to be mostly, if not entirely, poor fits that may need to be improved. For example, some of the models appear to have a very faint ring extending several times the galaxies radius beyond it which is not present in the JWST image. 
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/galaxy_star_formation_2025/example_galaxy_rings.png?raw=true" width="600" height="273">
 An example of those very faint rings - (may need to look closely) 
