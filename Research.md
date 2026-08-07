@@ -20,7 +20,7 @@ At the current update (8/7/26), the results are very preliminary and work-in-pro
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/galaxy_star_formation_2025/example_galaxy_rings.png?raw=true" width="600" height="273">
 An example of those very faint rings - (may need to look closely) 
 
-These rings could explain both the effective radius and Sérsic index being so high on these outliers but given that not all of the outliers have the same issue, (23 have unusually high effective radius, 43 have a high Sérsic index, and 19 have both) there may be something else going on for at least some of the sample's galaxies. 
+These rings could explain both the effective radius and Sérsic index being so high on these outliers but given that not all of the outliers have the same issue, (22 have unusually high effective radius, 42 have a high Sérsic index, and 18 have both) there may be something else going on for at least some of the sample's galaxies. 
 
 ## Planetary Science
 
