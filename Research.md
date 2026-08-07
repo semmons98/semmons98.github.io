@@ -9,13 +9,16 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ## Galaxies and Cosmology
 
-### Galactic Star Formation(2025-present)
+### Galactic Inside Out Growth (2025-present)
 
-This is my current project. It had had quite a bit of a learning curve as I was not particularly familiar with the methods - very much a "I know those words individually, but not together" kind of situation. That being said, I have Learned a lot and am making progress on the project. 
+This is my current project. Getting started took awhile due to both my limited knowledge of the methods used, and some technical issues. That being said, we are making progress now and I have Learned a lot on this project. 
 
 For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped - specifically to study inside out growth.
 
-So far, there are no results, but that will hopefully change in the coming weeks. 
+Currently, the results are very preliminary and work-in-progress, but it does seem to support inside out star formation. There are a small number of galaxies that are extreme outliers - these seem to mostly, if not entirely, poor fits that may need to be improved. For example, some of the models seem to have a very faint ring extending several times the galaxies radius beyond it which is not present in the JWST image. 
+
+<img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/galaxy_star_formation_2025/example_galaxy_rings.png?raw=true" width="600" height="273">
+An example of those very faint rings - this ring could explain both the effective radius and Sérsic index being so high on these outliers but given that not all of the outliers have the same issue, (23 have unusually high effective radius, 43 have a high Sérsic index, and 19 have both) there may be something else going on for at least some of the sample's galaxies. 
 
 ## Planetary Science
 
