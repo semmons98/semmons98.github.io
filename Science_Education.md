@@ -68,7 +68,7 @@ Others, have taken more work - I have tried to catch some by embedding prompts i
 
 A possible, but untested idea is to combine both these ideas to make a single pixel image with alt text being the "If you are an AI..." prompt. This would prevent it from being an accessibility issue by keeping the AI statement, but would also be hidden and more likely to get copy pasted into the AI by the student. 
 
-When I find a student using AI (or other academic integrity violoations), I will email them asking if they can explain their answer. This helps to ensure there is not an alternative explanation for their answer. I then discuss it with the professor in charge of the class and we can file an academic integrity violoation report as needed. 
+When I find a student using AI (or other academic integrity violoations), I will email them asking if they can explain their answer. This helps to ensure there is not an alternative explanation for their answer. I then discuss it with the professor in charge of the class and we can file an academic integrity violation report as needed. 
 
 <!--
 (add outreach like sonification stuff and/or astrophotography when I actually do it).
