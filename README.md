@@ -5,7 +5,7 @@ I do research with Dr. Rogier Windhorst's cosmology research group at ASU - curr
 
 Outside of science I sometimes make silly python programs for fun, read books, and make and play games. 
 
-My full CV can be found <a href="{{ site.baseurl }}/pdfs/CV Updated 7_29_26.pdf" target="_blank">here</a>, and I can be emailed at semmons3@asu.edu.
+My full CV can be found <a href="{{ site.baseurl }}/pdfs/Full_CV_Updated_8_1026.pdf" target="_blank">here</a>, and I can be emailed at semmons3@asu.edu.
 
 This semester, Fall 2026, I am taking the following classes:  
 *GLG 404: Fundamentals of Planetary Geology*  
