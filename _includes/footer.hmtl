@@ -5,7 +5,7 @@
 {% endunless %}
 <p style="margin-bottom: 0px">
     <small>
-        <a href="https://github.com/vaibhavvikas/jekyll-theme-minimalistic">Minimalistic</a> &mdash; Theme by 
-        <a href="https://github.com/vaibhavvikas/">vaibhavvikas</a>
+        This website is based on the <a href="https://github.com/vaibhavvikas/jekyll-theme-minimalistic">Minimalistic</a> theme by 
+        <a href="https://github.com/vaibhavvikas/">vaibhavvikas</a>, with modification by the site's owner.
     </small>
 </p>
