@@ -25,7 +25,7 @@ Intro to the Night Sky (S26)
 
 Intro to Telescopes (S26)
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to Telescopes S26.pdf" target="_blank">Intro to Telescopes</a>  
-Unfortunately, putting it into .pdf form means the joke .gif on slide 10 is no longer animated.
+Unfortunately, putting it into .pdf form means the joke .gif on slide 10 is no longer animated. Slides 2 and 3 were borrowed from a pre-existing set of slides written by an earlier TA.
 
 Magnitudes and Stellar Brightness (S26)
 <a href="{{ site.baseurl }}/pdfs/slides/Magnitudes and Stellar Brightness S26.pdf" target="_blank">Magnitudes and Stellar Brightness</a>  
