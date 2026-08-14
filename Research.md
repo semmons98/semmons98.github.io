@@ -18,7 +18,7 @@ For this project, I am using the Python package PySersic to fit a sample of seve
 At the current update (8/14/26), the results are very preliminary and work-in-progress, but they do seem to support what we would expect to see with inside out star formation. That being said, there are a few of galaxies that are extreme outliers - these seem to be mostly, if not entirely, poor fits that may need to be improved. For example, some of the models appear to have a very faint ring extending several times the galaxies radius beyond it which is not present in the JWST image. 
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/galaxy_star_formation_2025/example_galaxy_rings.png?raw=true" width="600" height="273">
-An example of those very faint rings - (may need to look closely) - this fit also may also have an issue with the galaxies position angle 
+An example of those very faint rings - (may need to look closely) - this fit also may also have an issue with the galaxies position angle  
 
 In an attempt to fix this, I am rerunning the continuum fits with the effective radius prior set as a truncated Gaussian distribution with a mean of 10, standard deviation of 3, and bounds of 1 and 35 pixels. So far, this has been very successful in improving the quality of the fits.
 
