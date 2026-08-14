@@ -20,7 +20,7 @@ At the current update (8/14/26), the results are very preliminary and work-in-pr
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/galaxy_star_formation_2025/example_galaxy_rings.png?raw=true" width="600" height="273">
 An example of those very faint rings - (may need to look closely)
 
-In an attempt to fix this, I am rerunning the continuum fits with the effective radius prior set as a truncated Gaussian distribution with a mean of 10, standard deviation of 3, and bounds of 1 and 35 pixels. So far, this has been very successful in improving the quality of the fits.
+In an attempt to fix this, I am rerunning the continuum fits with the effective radius prior set as a truncated Gaussian distribution with a mean of 10, standard deviation of 3, and bounds of 1 and 35; all in pixels. So far, this has been very successful in improving the quality of the fits.
 
 ## Planetary Science
 
