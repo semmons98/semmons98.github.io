@@ -15,12 +15,12 @@ This is my current project. Getting started took awhile due to both my limited k
 
 For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped - specifically to study inside out growth.
 
-At the current update (8/7/26), the results are very preliminary and work-in-progress, but they do seem to support inside out star formation. Currently, some technical issues have led to a temporary delay on being able to run the fits on about half the H-α maps and there are a few of galaxies that are extreme outliers - these seem to be mostly, if not entirely, poor fits that may need to be improved. For example, some of the models appear to have a very faint ring extending several times the galaxies radius beyond it which is not present in the JWST image. 
+At the current update (8/14/26), the results are very preliminary and work-in-progress, but they do seem to support what we would expect to see with inside out star formation. That being said, there are a few of galaxies that are extreme outliers - these seem to be mostly, if not entirely, poor fits that may need to be improved. For example, some of the models appear to have a very faint ring extending several times the galaxies radius beyond it which is not present in the JWST image. 
 
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/galaxy_star_formation_2025/example_galaxy_rings.png?raw=true" width="600" height="273">
 An example of those very faint rings - (may need to look closely) 
 
-These rings could explain both the effective radius and Sérsic index being so high on these outliers but given that not all of the outliers have the same issue, (22 have unusually high effective radius, 42 have a high Sérsic index, and 18 have both) there may be something else going on for at least some of the sample's galaxies. 
+In an attempt to fix this, I am rerunning the continuum fits with the effective radius prior set as a truncated Gaussian distribution with a mean of 10, standard deviation of 3, and bounds of 1 and 35 pixels. So far, this has been very successful in improving the quality of the fits.
 
 ## Planetary Science
 
