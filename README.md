@@ -14,4 +14,4 @@ This semester, Fall 2026, I am taking the following classes:
 *SES 421: Foundations of Planetary Science*  
 
 and I am a TA for 2 sections of:  
-*AST 111: Introduction to Solar Systems Astronomy, Lab*.
+*AST 111: Introduction to Solar Systems Astronomy, Lab*
