@@ -52,6 +52,9 @@ Galaxy Morphology (S26)
 Hubble Expansion (S26)
 <a href="{{ site.baseurl }}/pdfs/slides/Hubble Expansion S26.pdf" target="_blank">Hubble Expansion</a>  
 
+Intro/Scientific Models (F26)
+<a href="{{ site.baseurl }}/pdfs/slides/AST 111 Intro and Scientific Models.pdf" target="_blank">AST 111 Intro and Scientific Models</a>  
+
 ### Extra Credit Quiz (F25)
 At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission to create their own extra credit assignments for their students, not everyone did, but I wrote this quiz. 
 
