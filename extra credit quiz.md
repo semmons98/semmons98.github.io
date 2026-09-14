@@ -43,9 +43,9 @@ Answer(s): $a\approx6.76\times10^6$ meters.
 
 Question 7:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%207.png?raw=true" height=291 width=600>  
-This question was also taken from *A Student's Guide to the Mathematics of Astronomy*, chapter 2, in this case question 2.11. I added everything from the equation for the force of gravity and onward. In the future, I think the point would be made better if 0.1 or 0.01 meters were used for the distance between doctor and baby in this question. 
+This question was also taken from *A Student's Guide to the Mathematics of Astronomy*, chapter 2, in this case question 2.11. I added everything from the equation for the force of gravity and onward. In the future, I think the point would be made better if 0.1 or 0.01 meters were used for the distance between the doctor and baby in this question. 
 
-Answer(s): The difference is approximately 55 times in foavor of Jupiter.
+Answer(s): The difference is approximately 55 times in favor of Jupiter.
 
 Question 8:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%208.png?raw=true" height=670 width=600>  
