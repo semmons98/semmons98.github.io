@@ -55,6 +55,12 @@ Hubble Expansion (S26)
 Intro/Scientific Models (F26)
 <a href="{{ site.baseurl }}/pdfs/slides/AST 111 Intro and Scientific Models F26.pdf" target="_blank">AST 111 Intro and Scientific Models</a>  
 
+Lunar Phases (F26)
+<a href="{{ site.baseurl }}/pdfs/slides/Lunar Phases F26.pdf" target="_blank">AST 111 Lunar Phases</a>  
+
+Coordinate Systems (F26)
+<a href="{{ site.baseurl }}/pdfs/slides/Coordinate Systems F26.pdf" target="_blank">AST 111 Lunar Phases</a>  
+
 ### Extra Credit Quiz (F25)
 At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission to create their own extra credit assignments for their students, not everyone did, but I wrote this quiz. 
 
