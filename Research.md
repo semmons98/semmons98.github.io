@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # Research
 
-Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. This page includes discriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. If you are interested in any of this work and want more details or have questions, please email me at semmons3@asu.edu
+Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though, I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. My main area of interest for future research is impacts, impact seismology, and asteroids dynamics. This page includes descriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. If you are interested in any of this work and want more details or have questions, please email me at semmons3@asu.edu
 
 ## Galaxies and Cosmology
 
@@ -21,6 +21,8 @@ At the current update (8/14/26), the results are very preliminary and work-in-pr
 An example of those very faint rings (may need to look closely)
 
 In an attempt to fix this, I am rerunning the continuum fits with the effective radius prior set as a truncated Gaussian distribution with a mean of 10, standard deviation of 3, and bounds of 1 and 35; all in pixels. So far, this has been very successful in improving the quality of the fits.
+
+After rerunning the fits, they are generally much better, and the 
 
 ## Planetary Science
 
