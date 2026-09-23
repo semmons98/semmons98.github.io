@@ -27,6 +27,7 @@ Parallax and Proper Motion
 Intro to the Night Sky  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to the Night Sky S26.pdf" target="_blank">(S26)</a>  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to the Night Sky F26.pdf" target="_blank">(F26)</a>  
+Slide 4, with the image of the pleiades was used to talk about how it is hypothesized to be one of humanities oldest stories, because of the similarities across diverse cultures, especially regarding the number 7 in relation to the cluster. 
 
 Intro to Telescopes  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to Telescopes S26.pdf" target="_blank">(S26)</a>  
