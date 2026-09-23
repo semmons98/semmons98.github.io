@@ -51,7 +51,7 @@ Question 8:
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%208.png?raw=true" height=670 width=600>  
 This question was written by me.
 
-Answer(s): a. The color, can tell you the temperature - bluer = hotter and redder = cooler, b. Cooler.
+Answer(s): a. The color can tell you the temperature: bluer = hotter and redder = cooler, b. Cooler.
 
 Question 9:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%209.png?raw=true" height=252 width=600>  
