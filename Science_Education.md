@@ -21,49 +21,49 @@ Spectroscopy
 <a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy S26.pdf" target="_blank">(S26)</a>  
 The agressively green background is the hex code for the frequency of light that the solar spectrum peaks at (assuming your monitor is properly calbrated). The "Scattering" slide at the end was not used as I couldn't find a good place to fit it into the rest of the slideshow. 
 
-Parallax and Proper Motion
+Parallax and Proper Motion  
 <a href="{{ site.baseurl }}/pdfs/slides/Parallax and Proper Motion S26.pdf" target="_blank">(S26)</a>  
 
-Intro to the Night Sky
+Intro to the Night Sky  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to the Night Sky S26.pdf" target="_blank">(S26)</a>  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to the Night Sky F26.pdf" target="_blank">(F26)</a>  
 
-Intro to Telescopes
+Intro to Telescopes  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to Telescopes S26.pdf" target="_blank">(S26)</a>  
 Unfortunately, putting it into .pdf form means the joke .gif on slide 10 is no longer animated. Slides 2 and 3 were borrowed from a pre-existing set of slides written by an earlier TA.
 
-Magnitudes and Stellar Brightness
+Magnitudes and Stellar Brightness  
 <a href="{{ site.baseurl }}/pdfs/slides/Magnitudes and Stellar Brightness S26.pdf" target="_blank">(S26)</a>  
 The picture on the top right of slide 11 is of the Orion Nebula, it was taken by me by jamming my cell phone camera against the eyepiece of one of the telescopes and holding it still for a couple second exposure - this was just before the lab, when the other TAs and I were setting up the telescopes for it. 
 
-General Observing
+General Observing  
 <a href="{{ site.baseurl }}/pdfs/slides/General Observing S26.pdf" target="_blank">(S26)</a>  
 Slides 13, 19, 20, and 21 were not used. Slide 24 was in case of bad weather keeping us inside as the forecast could have gone either way (but ended up being clear).
 
-Variable Stars
+Variable Stars  
 <a href="{{ site.baseurl }}/pdfs/slides/Variable Stars S26.pdf" target="_blank">(S26)</a>  
 The formatting on slide 7 seems to have gotten a bit messed up when I converted it to a .pdf, the cutoff word should be on a new line and says "parallax". 
 
-HR Diagrams
+HR Diagrams  
 <a href="{{ site.baseurl }}/pdfs/slides/HR Diagrams S26.pdf" target="_blank">(S26)</a>  
 Same green as Spectroscopy, this lab was done on the same day as the Artemis II launch, and we spent the first 20 minutes of class (and awile before) watching the livestream of it. I let it continue playing while the students worked after I had given the presentation. 
 
-Open Clusters
+Open Clusters  
 <a href="{{ site.baseurl }}/pdfs/slides/Open Clusters S26.pdf" target="_blank">(S26)</a>  
 
-Galaxy Morphology
+Galaxy Morphology  
 <a href="{{ site.baseurl }}/pdfs/slides/Galaxy Morphology S26.pdf" target="_blank">(S26)</a>  
 
-Hubble Expansion
+Hubble Expansion  
 <a href="{{ site.baseurl }}/pdfs/slides/Hubble Expansion S26.pdf" target="_blank">(S26)</a>  
 
-Intro/Scientific Models
+Intro/Scientific Models  
 <a href="{{ site.baseurl }}/pdfs/slides/AST 111 Intro and Scientific Models F26.pdf" target="_blank">(F26)</a>  
 
-Lunar Phases
+Lunar Phases  
 <a href="{{ site.baseurl }}/pdfs/slides/Lunar Phases F26.pdf" target="_blank">(F26)</a>  
 
-Coordinate Systems
+Coordinate Systems  
 <a href="{{ site.baseurl }}/pdfs/slides/Coordinate Systems F26.pdf" target="_blank">(F26)</a>  
 
 ### Extra Credit Quiz (F25)
