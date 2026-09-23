@@ -27,7 +27,7 @@ Parallax and Proper Motion
 Intro to the Night Sky  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to the Night Sky S26.pdf" target="_blank">(S26)</a>  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to the Night Sky F26.pdf" target="_blank">(F26)</a>  
-Slide 4, with the image of the pleiades was used to talk about how it is hypothesized to be one of humanities oldest stories, because of the similarities across diverse cultures, especially regarding the number 7 in relation to the cluster. 
+Slide 4, with the image of the Pleiades was used to talk about how it is hypothesized to be one of humanities oldest stories, because of the similarities across diverse cultures, especially regarding the number 7 in relation to the cluster. There are 7 named stars in the cluster, but only 6 are visible with the averge human's naked eye - the last time 7 would have been visible to the average person was 100,000 years ago.
 
 Intro to Telescopes  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to Telescopes S26.pdf" target="_blank">(S26)</a>  
