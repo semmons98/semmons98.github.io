@@ -10,7 +10,7 @@ My full CV can be found <a href="{{ site.baseurl }}/pdfs/Full_CV_Updated_8_17_27
 This semester, Fall 2026, I am taking the following classes:  
 *GLG 404: Fundamentals of Planetary Geology*  
 *GLG 418/598: Geophysics*  
-*PHY 311: Classical Physics II*  
+*PHY 311: Classical Physics II/E&M I* (class name changed at the start of the semester)  
 *SES 421: Foundations of Planetary Science*  
 
 and I am a TA for 2 sections of:  
