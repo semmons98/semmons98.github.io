@@ -11,7 +11,7 @@ This semester, Fall 2026, I am taking the following classes:
 *GLG 404: Fundamentals of Planetary Geology*  
 *GLG 418/598: Geophysics*  
 *PHY 311: Classical Physics II/E&M I* (class name changed at the start of the semester)  
-*SES 421: Foundations of Planetary Science*  
+*SES 421: Foundations of Planetary Science* (accelerated class - finishes at semester midpoint)  
 
 and I am a TA for 2 sections of:  
 *AST 111: Introduction to Solar Systems Astronomy, Lab*
