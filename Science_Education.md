@@ -49,7 +49,7 @@ The formatting on slide 7 seems to have gotten a bit messed up when I converted 
 
 HR Diagrams  
 <a href="{{ site.baseurl }}/pdfs/slides/HR Diagrams S26.pdf" target="_blank">(S26)</a>  
-Same green as Spectroscopy, this lab was done on the same day as the Artemis II launch, and we spent the first 20 minutes of class (and awile before) watching the livestream of it. I let it continue playing while the students worked after I had given the presentation. 
+Same green as Spectroscopy, this lab was done on the same day as the Artemis II launch, and we spent the first 20 minutes of class (and some time before) watching the livestream of it. I let it continue playing while the students worked after I had given the presentation. 
 
 Open Clusters  
 <a href="{{ site.baseurl }}/pdfs/slides/Open Clusters S26.pdf" target="_blank">(S26)</a>  
