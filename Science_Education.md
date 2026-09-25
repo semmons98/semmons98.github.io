@@ -31,7 +31,7 @@ Slide 4, with the image of the Pleiades was used to talk about how it is hypothe
 
 Intro to Telescopes  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to Telescopes S26.pdf" target="_blank">(S26)</a>  
-Unfortunately, putting it into .pdf form means the joke .gif on slide 10 is no longer animated. Slides 2 and 3 were borrowed from a pre-existing set of slides written by an earlier TA.
+Unfortunately, putting it into .pdf form means the joke .gif on slide 10 is no longer animated. Slides 2 and 3 were borrowed from a pre-existing set of slides written by an unknown TA in a prior semester.  
 <a href="{{ site.baseurl }}/pdfs/slides/Intro to Telescopes F26.pdf" target="_blank">(F26)</a>  
 Same note about the .gif, this time on slide 8. 
 
