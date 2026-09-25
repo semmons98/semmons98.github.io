@@ -39,7 +39,7 @@ As for the research itself, we used the simulation software *SeisSol* to study t
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/homogeneous.png?raw=true" width="275" height="143"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/2_layer.png?raw=true" width="275" height="143"><img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/psyche/blobby.png?raw=true" width="275" height="143">  
 The three models
 
-For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006594" target="_blank">Nishiyama et al. 2021</a> citation in the poster), which for us looks like: 
+For the other inputs, we approximated the impact's seismic moment tensor as an explosion (see the <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006594" target="_blank">Nishiyama et al., 2021</a> citation in the poster), which for us looks like: 
 
 $$
     M=\sqrt{\frac{2}{3}}\begin{bmatrix}
@@ -53,7 +53,7 @@ $$
 M_0=\left(\frac{E_I}{4.5\times10^{-9}}\right)^{\frac{1}{1.24}}
 $$
 
-We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. There were some *fun* errors that were found and corrected as we worked, such as having the seismic efficiency being 8 orders of magntiude smaller than anything ever measured. It turns out that there were two issues causing this. First that we were including the seismic efficiency in our seismic moment tensor calculations as it was included in the Nishiyama et al. 2021 calculations. Fixing this helped, but the seismic efficiency was still 3 orders of magnitude short of what we expected. After several more simulations and experimenting with inputs, it turned out that because we had our simulated seismic source on the surface of the asteroid a large portion of the energy was being sent out into space instead of into the aseroid; the fix was to shrink the size of the source as small as we reasonably could and change the position to be very slightly below the 3D model's surface. 
+We also had to estimate the sheer modulus and Lamé's First Parameter for the rock and metal materials in the models and used a binary search algorithm to find the time and normailization constant. There were some *fun* errors that were found and corrected as we worked, such as having the seismic efficiency being 8 orders of magntiude smaller than anything ever measured. It turns out that there were two issues causing this. First that we were including the seismic efficiency in our seismic moment tensor calculations as it was included in the Nishiyama et al., 2021 calculations. Fixing this helped, but the seismic efficiency was still 3 orders of magnitude short of what we expected. After several more simulations and experimenting with inputs, it turned out that because we had our simulated seismic source on the surface of the asteroid a large portion of the energy was being sent out into space instead of into the aseroid; the fix was to shrink the size of the source as small as we reasonably could and change the position to be very slightly below the 3D model's surface. 
 
 Our outputs included both animations to visualize the seismic waves traveling through the asteroid and seismograms (note, the animations are sped up 10 times):
 
@@ -69,6 +69,14 @@ Homogeneous Model
 <img src="https://github.com/semmons98/PsycheESE/blob/main/Data/Graphs/Blobby%20Model%2080%20Seconds.png?raw=true" width="400" height="241">  
 
 In the end, we did determine that this would be possibly with current technology, but there were several limitation primarily relating to time constraints on the size of our simulations. For more detail, take a look at the poster and GitHub repository linked earlier, I have also included a Python script used to read the data output by the simulations on the Programming page of this website. 
+
+### Tests of Seismic Reduced Impact-Induced Seismic Resurfacing on Rubble Pile Asteroids (Upcoming)
+
+This is my planned term project for my GLG 404 class. I have not started yet, but will present the idea to the class on Thursday, October 8th. If it is approved I will then begin working on it. For the time being, I will explain the motivations and plan, and update this section as I work through the project.  
+
+As far as why I want to do this research; the Nishiyama et al., 2021 paper that was cited in the PsycheESE project found that the amount of seismic resurfacing as a result of the SCI impact on Ryugu was significantly less than expected - the furthest any of the boulders they measured moved was less than a meter. They propose several possible explanations as to why, and I have a few more hypotheses of my own. This includes, breaking and/or compression of material, regolith behaving non-elastically in microgravity, and my own idea that maybe the seismic moment tensor approxation of an explosion is not valid for small impacts like the SCI. I have some ideas to test these, both experimentally and in simulations. So, I am going to run those experiments, though perhaps not as rigorously as I would like due to the limited equipment available to me. If I have the time and resources I will also run seismic simulations as a stretch goal. 
+
+The plan for the experiments is to drop a ball bearing into a box of coarse sand. I will have small items of known mass scattered around it to approximate Ryugu's boulders. I can measure the movement of the "boulders" to replicate the Nishiyama et al., 2021 methodology, as well as take measurements of the crater's depth and diameter and how much the sand at the bottom was compressed. If I am able to run the simulations, I will use the methodolgy developed in the PsycheESE project and place my recievers at the locations of Ryugu's boulders to test how much seismic energy is transferred to them and can test different seismic moment tensors to see if one more closely matches what was observed on Ryugu and/or my sandbox. 
 
 ### Crater Counting on Charon (2023)
 
