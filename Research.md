@@ -9,7 +9,7 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ## Galaxies and Cosmology
 
-### Galacty Inside Out Growth (2025-present)
+### Galaxy Inside Out Growth (2025-present)
 
 This is my current project. Getting started took awhile due to both my limited knowledge of the methods used, and some technical issues. That being said, we are making progress now and I have Learned a lot on this project. 
 
