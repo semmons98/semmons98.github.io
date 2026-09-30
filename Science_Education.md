@@ -19,7 +19,7 @@ When teaching a lab, I usually start with a brief, 5-10 minute, presentation int
 
 Spectroscopy  
 <a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy S26.pdf" target="_blank">(S26)</a>  
-The agressively green background is the hex code for the frequency of light that the solar spectrum peaks at (assuming your monitor is properly calbrated) as calculated in the lab. The "Scattering" slide at the end was not used as I couldn't find a good place to fit it into the rest of the slideshow. Also, conversion to a .pdf format means the animated image on slid 9 is no longer animated. 
+The agressively green background is the rgb/hex code for the frequency of light that the solar spectrum peaks at (assuming your monitor is properly calbrated) as calculated in the lab. The "Scattering" slide at the end was not used as I couldn't find a good place to fit it into the rest of the slideshow. Also, conversion to a .pdf format means the animated image on slid 9 is no longer animated. 
 
 Parallax and Proper Motion  
 <a href="{{ site.baseurl }}/pdfs/slides/Parallax and Proper Motion S26.pdf" target="_blank">(S26)</a>  
