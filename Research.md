@@ -11,7 +11,7 @@ Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. T
 
 ### Galaxy Inside Out Growth (2025-present)
 
-This is my current project. Getting started took awhile due to both my limited knowledge of the methods used, and some technical issues. That being said, we are making progress now and I have learned a lot on this project. 
+This is my current project. Getting started took awhile due to both my limited knowledge of the methods used, and some technical issues. That being said, we are making progress now and I have learned a lot while working on this project. 
 
 For this project, I am using the Python package PySersic to fit a sample of several hundred galaxies from JWST images. This is being done for each galaxy twice - once using a multi-band fit of 8 NIRCam filters and again using a single-band fit of H-α maps from NIRISS. The resulting outputs, primarily the Sérsic index and effective radius, can then be compared between the two sets to determine where in the galaxies star formation is still happening and where it has stopped - specifically to study inside out growth.
 
