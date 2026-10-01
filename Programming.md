@@ -10,7 +10,7 @@ As an astronomy student I have spent a fair amount of time programming for class
 ## Research Code
 
 ### PsycheESE Receiver Reader Script
-I wrote this script as part of the PsycheESE Project that was my astrophysics major's capstone. It reads the receiver (simulated seismometer) output files from SeisSol and plots the results. As for how it works, first it loads the file and skips the first 2 rows as they are the header (there are commented out lines of code to instead only load a portion of the data if desired - the numbers are based on the simulation timesteps), it then splits this into the time (the first column of the output file), and the ground velocity in each direction. Additional lines of code for the stress outputs can be easily added using he same formatting, they are indexed 1-6. Then the program scales the time data so that the plots will have seconds rather then number of time steps for the x-axis, and takes the derivative of the ground velocity data to get the ground acceleration. Then simple plots are made. 
+I wrote this script as part of the PsycheESE Project that was my astrophysics major's capstone. It reads the receiver (simulated seismometer) output files from SeisSol and plots the results. As for how it works, first it loads the file and skips the first 2 rows as they are the header (there are commented out lines of code to instead only load a portion of the data if desired - the numbers are based on the simulation timesteps), it then splits this into the time (the first column of the output file), and the ground velocity in each direction. Additional lines of code for the stress outputs can be easily added using the same formatting, they are indexed 1-6. Then the program scales the time data so that the plots will have seconds rather then number of time steps for the x-axis, and takes the derivative of the ground velocity data to get the ground acceleration. Then simple plots are made. 
 
 ```python
 
@@ -64,7 +64,7 @@ ddx = dxdx + dydx + dzdx
 ## Coding for Classes/TAing
 
 ### Planetary Atmospheres Lab (AST 111 TA)
-This one came from me teaching the Planetary Atmospheres lab for AST 111 my first semester as a TA, nobody was asking for any help while working on the lab and I got a bit bored. So I wrote this script to do all the calculations involved in the lab (and a few more) and then plot the results. It calculates a planets effective temperature based solely on its distance from the Sun, then incorporates first the planet's albedo and then the planet's atmosphere. And yes, as one of my students incredulously pointed out, it does contain a dictionary of dictionaries. 
+This one came from me teaching the Planetary Atmospheres lab for AST 111 my first semester as a TA. No one was asking for any help while working on the lab and I got a bit bored. So I wrote this script to do all the calculations involved in the lab (and a few more) and then plot the results. It calculates a planet's effective temperature based solely on its distance from the Sun, then it incorporates first the planet's albedo and then the planet's atmosphere. And yes, as one of my students incredulously pointed out, it does contain a dictionary of dictionaries. 
 
 ```python
 
