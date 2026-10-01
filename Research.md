@@ -5,7 +5,7 @@ permalink: /research/
 ---
 # Research
 
-Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. Though I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. My main area of interest for future research is the physics of impact cratering and impact seismology. This page includes descriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. If you are interested in any of this work and want more details or have questions, please email me at semmons3@asu.edu
+Currently, I work with Dr. Rogier Windhorst's cosmology research group at ASU. I have also worked on research in planetary science and astrobiology, both of which I am interested in building upon as future projects. My main area of interest for future research is the physics of impact cratering and impact seismology. This page includes descriptions, thought processes/work flows, and data/figures for various research projects I have worked on, both formal research and research adjacent class projects. If you are interested in any of this work and want more details or have questions, please email me at semmons3@asu.edu
 
 ## Galaxies and Cosmology
 
