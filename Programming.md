@@ -5,7 +5,7 @@ permalink: /programming/
 ---
 # Programming
 
-As an astronomy student I have spent a fair amount of time programming for classes or for research, but I also often enjoy making silly programs. I primarily know and use Python, though I am certainly happy to learn other languages. This page includes project descriptions and the code for much of what I have written, both serious projects for research or classes, and fun/silly personal projects. 
+As an astronomy student I have spent a fair amount of time programming for classes or for research. I also often enjoy making silly programs. I primarily know and use Python, though I am certainly happy to learn other languages. This page includes project descriptions and the code for much of what I have written, both serious projects for research or classes, and fun/silly personal projects. 
 
 ## Research Code
 
