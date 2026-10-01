@@ -64,7 +64,7 @@ ddx = dxdx + dydx + dzdx
 ## Coding for Classes/TAing
 
 ### Planetary Atmospheres Lab (AST 111 TA)
-This one came from me teaching the Planetary Atmospheres lab for AST 111 my first semester as a TA. No one was asking for any help while working on the lab and I got a bit bored. So I wrote this script to do all the calculations involved in the lab (and a few more) and then plot the results. It calculates a planet's effective temperature based solely on its distance from the Sun, then it incorporates first the planet's albedo and then the planet's atmosphere. And yes, as one of my students incredulously pointed out, it does contain a dictionary of dictionaries. 
+This one came from me teaching the Planetary Atmospheres lab for AST 111 my first semester as a TA. No one was asking for any help while working on the lab and I got a bit bored. So I wrote this script to do all the calculations involved in the lab (and a few more) and then plot the results. It calculates a planet's effective temperature based solely on its distance from the Sun. Then it incorporates first the planet's albedo and then the planet's atmosphere. And yes, as one of my students incredulously pointed out, it does contain a dictionary of dictionaries. 
 
 ```python
 
@@ -160,7 +160,7 @@ Generative AI did assist with this project (ChatGPT 5.0 and 5.1). Beyond general
 For the sake of keeping this page readable, I have put the code onto a separate page, linked <a href="https://semmons98.github.io/programming/matplotlib_tictactoe/" target="_blank">here</a>. 
 
 ### Golden Ratio Distance Conversion
-This was based on a meme I saw online about how the conversion between miles and kilometers was close to the Golden Ratio. The code takes an input integer number of miles from the user, then finds the next fibonacci number after that integer and prints it as the estimated number of kilometers. It then also calculates the actual unit conversion, printing that and the percent error. Though this was just something I did for fun, in the future I may comeback and add the ability to convert the other way (kilometers to miles). 
+This was based on a meme I saw online about how the conversion between miles and kilometers was close to the Golden Ratio. The code takes an input integer number of miles from the user, then finds the next fibonacci number after that integer and prints it as the estimated number of kilometers. It then also calculates the actual unit conversion, printing that and the percent error. Though this was just something I did for fun, in the future I may come back and add the ability to convert the other way (kilometers to miles). 
 
 ```python
 """
