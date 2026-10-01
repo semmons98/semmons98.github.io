@@ -7,7 +7,7 @@ permalink: /science_education/extra_credit_quiz/
 
 Question 1:  
 <img src="https://github.com/semmons98/semmons98.github.io/blob/main/photos/extra_credit_quiz_F25/Question%201.png?raw=true" height=649 width=600>  
-This question was written by me, it is based on a picture from one of the pre-written slides and I noticed some issues with it while presenting. It turns out I was wrong about one of the errors (I misidentified the constellation being used to point to *Polaris* as *Ursa Minor* instead of *Ursa Major*) - one of my students in their answer actually pointed out a different error I hadn't noticed - the Earth is spinning the wrong way.  
+This question was written by me, it is based on a picture from one of the pre-written slides and I noticed some issues with it while presenting. It turns out I was wrong about one of the errors - I had misidentified the constellation being used to point to *Polaris* as *Ursa Minor* instead of *Ursa Major*. Then one of my students in their answer actually pointed out a different error I hadn't noticed - the Earth is spinning the wrong way.  
 
 Answer(s): The direction of Earth's rotation and the location of the North Pole on Earth's surface. 
 
@@ -64,4 +64,4 @@ Question 10:
 This question was written by me. 
 
 Answer(s): a. Transit Method: Diameter, period - Radial Velocity: Mass, period - together: density, orbital radius (with star's information), b. No diameter (and so no density), c. Atmospheric Composition, d. The third lab is planetary atmospheres - you could then estimate the planet's surface temperature (technically possible without the atmospheric composition, but much less accurate).  
-On parts a. and b., students could mention that a limitation of Radial Velocity is that it is the minimum mass of the planet rather than the actual mass due to the unknown orbital incclination - and if you see a transit then you know the incliniation is (very close to) 90° - getting this could be an additional bonus.
+On parts a. and b., students could mention that a limitation of Radial Velocity is that it is the minimum mass of the planet rather than the actual mass due to the unknown orbital inclination - and if you see a transit then you know the incliniation is (very close to) 90° - getting this could be an additional bonus.
