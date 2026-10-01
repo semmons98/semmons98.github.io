@@ -5,7 +5,7 @@ permalink: /science_education/
 ---
 # Science Education and Communication
 
-I have a lot of interest in eductation and outreach. Currently, I work as an undergraduate TA for the lab portions of ASU's Intro Astronomy for Non-Majors (AST 111 and AST 112). This page is for examples of what I have created for the purpose of astronomy (and science generally) education and outreach. 
+I have a lot of interest in education and outreach. Currently, I work as an undergraduate TA for the lab portions of ASU's Intro Astronomy for Non-Majors (AST 111 and AST 112). This page is for examples of what I have created for the purpose of astronomy (and science generally) education and outreach. 
 
 <!--
 Add some notes about teaching?
