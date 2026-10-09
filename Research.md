@@ -80,7 +80,7 @@ The plan for the experiments is to drop a ball bearing into a box of coarse sand
 
 ### Crater Counting on Charon (2023)
 
-For a class this is arguably my first research project; taking place during my second semester at ASU when I took SES 123 *Earth, Solar System, and Universe; Lab*. The concept is fairly well explained by the title, I counted the craters on Pluto's largest moon, Charon. As I was very inexperienced and did not know what kind of tools may exist for this task, I did it by hand, it was incredibly tedious but also kind of fun. My results confirmed existing hypotheses, that Charon has (or relatively recently had) some level of geologic activity - likely cryovolcanism - which resurfaced some parts of the surface. 
+Though for a class, this is arguably my first research project; taking place during my second semester at ASU when I took SES 123 *Earth, Solar System, and Universe; Lab*. The concept is fairly well explained by the title, I counted the craters on Pluto's largest moon, Charon. As I was very inexperienced and did not know what kind of tools may exist for this task, I did it by hand, it was incredibly tedious but also kind of fun. My results confirmed existing hypotheses, that Charon has (or relatively recently had) some level of geologic activity - likely cryovolcanism - which resurfaced some parts of the surface. 
 
 My process was to take the following mosaic of New Horizons images from the USGS astrogeology website and open it in photoshop. 
 
