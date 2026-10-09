@@ -55,9 +55,11 @@ Same green as Spectroscopy S26, this lab was done on the same day as the Artemis
 
 Open Clusters  
 <a href="{{ site.baseurl }}/pdfs/slides/Open Clusters S26.pdf" target="_blank">(S26)</a>  
+The mnemonic at the bottom of slide 4 is from a professor from one of my earlier classes and was suggested as a less objectionable alternative to the traaditional one.
 
 Galaxy Morphology  
 <a href="{{ site.baseurl }}/pdfs/slides/Galaxy Morphology S26.pdf" target="_blank">(S26)</a>  
+The title slide and some of the images were borrowed from another set of slides written by an unknown TA in a previous semester; labeled only with the name "Hanson"
 
 Hubble Expansion  
 <a href="{{ site.baseurl }}/pdfs/slides/Hubble Expansion S26.pdf" target="_blank">(S26)</a>  
@@ -67,6 +69,7 @@ Intro/Scientific Models
 
 Lunar Phases  
 <a href="{{ site.baseurl }}/pdfs/slides/Lunar Phases F26.pdf" target="_blank">(F26)</a>  
+All the other labs had been taught before in previous semesters, this was a new lab for this semester.
 
 Coordinate Systems  
 <a href="{{ site.baseurl }}/pdfs/slides/Coordinate Systems F26.pdf" target="_blank">(F26)</a>  
