@@ -20,6 +20,8 @@ When teaching a lab, I usually start with a brief, 5-10 minute presentation intr
 Spectroscopy  
 <a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy S26.pdf" target="_blank">(S26)</a>  
 The agressively green background is the rgb/hex code for the frequency of light that the solar spectrum peaks at (assuming your monitor is properly calbrated) as calculated in the lab. The "Scattering" slide at the end was not used as I couldn't find a good place to fit it into the rest of the slideshow. Also, conversion to a .pdf format means the animated image on slid 9 is no longer animated. 
+<a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy F26.pdf" target="_blank">(F26)</a> 
+I slightly adjusted the green to better match what I intended. I also have 2 announcements slides because the week after this lab is when the schedule starts to get complicated from holidays/school breaks, meaning the two sections I teach have different announcements for awhile in terms of what time we are meeting the following week. 
 
 Parallax and Proper Motion  
 <a href="{{ site.baseurl }}/pdfs/slides/Parallax and Proper Motion S26.pdf" target="_blank">(S26)</a>  
@@ -76,6 +78,7 @@ The questions came from several sources. Some came from another TA's extra credi
 
 I'm not entirely happy with all of the borrowed questions, as they are primarily having students do calculations that they haven't really learned how to do or what they mean at this level. In future versions I would want to focus on questions like the last three, where they need to apply ideas they have learned and sometimes synthesise new ideas building on what they learned in class. 
 
+<!--
 ### Attempts to Stop Students Using Generative AI for Assignments
 Student's using Generative AI to cheat on assignments is a pretty big problem right now, and I have encountered my students using it a few times now. While AI can be useful in certain situations, I have found that you need to know about the topic already for it to achieve that level of usefulness. So using it to complete class assignments very much defeats the point. I've tried a few different methods to try and catch and/or stop this. 
 
@@ -88,6 +91,7 @@ A possible but untested idea is to combine both of these methods to make a singl
 However, many newer models will warn the user of these kind of injected prompts, so these may not work any longer. Instead, I think the best way is to write questions that the AI is not going to be good at. This can be difficult. The easiest I have seen would be like the last question in my extra credit quiz above, where I ask the student to use what they remember from an earlier assignment without directly naming the earlier assignment. It turns out, that most generative AI models will try to guess what that other lab was and in many cases, confidently say it is a lab we never did. While a student could include a list of the labs that they did, in my experience most students cheating (in any way) in intro/gen ed/elective classes are doing so out of a lack of interest. So I don't think that would be an issue here, though it could be one for higher level classes where the motivations are likely to be different. 
 
 When I find a student using AI (or other academic integrity violations), I will email them asking if they can explain their answer. This helps to ensure there is not an alternative explanation. I then discuss it with the professor in charge of the class and we can file an academic integrity violation report as needed. 
+-->
 
 <!--
 (add outreach like sonification stuff and/or astrophotography when I actually do it).
