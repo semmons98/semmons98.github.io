@@ -59,7 +59,7 @@ The mnemonic at the bottom of slide 4 is from a professor from one of my earlier
 
 Galaxy Morphology  
 <a href="{{ site.baseurl }}/pdfs/slides/Galaxy Morphology S26.pdf" target="_blank">(S26)</a>  
-The title slide and some of the images were borrowed from another set of slides written by an unknown TA in a previous semester; labeled only with the name "Hanson"
+The title slide and some of the images were borrowed from another set of slides written by an unknown TA in a previous semester; labeled only with the name "Hanson".
 
 Hubble Expansion  
 <a href="{{ site.baseurl }}/pdfs/slides/Hubble Expansion S26.pdf" target="_blank">(S26)</a>  
