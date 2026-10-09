@@ -19,8 +19,8 @@ When teaching a lab, I usually start with a brief, 5-10 minute presentation intr
 
 Spectroscopy  
 <a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy S26.pdf" target="_blank">(S26)</a>  
-The agressively green background is the rgb/hex code for the frequency of light that the solar spectrum peaks at (assuming your monitor is properly calbrated) as calculated in the lab. The "Scattering" slide at the end was not used as I couldn't find a good place to fit it into the rest of the slideshow. Also, conversion to a .pdf format means the animated image on slid 9 is no longer animated. 
-<a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy F26.pdf" target="_blank">(F26)</a> 
+The agressively green background is the rgb/hex code for the frequency of light that the solar spectrum peaks at (assuming your monitor is properly calbrated) as calculated in the lab. The "Scattering" slide at the end was not used as I couldn't find a good place to fit it into the rest of the slideshow. Also, conversion to a .pdf format means the animated image on slid 9 is no longer animated.  
+<a href="{{ site.baseurl }}/pdfs/slides/Spectroscopy F26.pdf" target="_blank">(F26)</a>  
 I slightly adjusted the green to better match what I intended. I also have 2 announcements slides because the week after this lab is when the schedule starts to get complicated from holidays/school breaks, meaning the two sections I teach have different announcements for awhile in terms of what time we are meeting the following week. 
 
 Parallax and Proper Motion  
