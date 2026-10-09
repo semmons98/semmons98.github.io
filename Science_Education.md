@@ -51,7 +51,7 @@ The formatting on slide 7 seems to have gotten a bit messed up when I converted 
 
 HR Diagrams  
 <a href="{{ site.baseurl }}/pdfs/slides/HR Diagrams S26.pdf" target="_blank">(S26)</a>  
-Same green as Spectroscopy, this lab was done on the same day as the Artemis II launch, and we spent the first 20 minutes of class (and some time before) watching the livestream of it. I let it continue playing while the students worked after I had introduced the lab. 
+Same green as Spectroscopy S26, this lab was done on the same day as the Artemis II launch, and we spent the first 20 minutes of class (and some time before) watching the livestream of it. I let it continue playing while the students worked after I had introduced the lab. 
 
 Open Clusters  
 <a href="{{ site.baseurl }}/pdfs/slides/Open Clusters S26.pdf" target="_blank">(S26)</a>  
@@ -70,6 +70,9 @@ Lunar Phases
 
 Coordinate Systems  
 <a href="{{ site.baseurl }}/pdfs/slides/Coordinate Systems F26.pdf" target="_blank">(F26)</a>  
+
+Orbital Motion  
+<a href="{{ site.baseurl }}/pdfs/slides/Orbital Motion F26.pdf" target="_blank">(S26)</a>  
 
 ### Extra Credit Quiz (F25)
 At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission to create their own extra credit assignments for their students. Not everyone did, but I wrote this quiz. 
