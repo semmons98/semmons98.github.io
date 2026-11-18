@@ -69,7 +69,7 @@ Intro/Scientific Models
 
 Lunar Phases  
 <a href="{{ site.baseurl }}/pdfs/slides/Lunar Phases F26.pdf" target="_blank">(F26)</a>  
-All the other labs had been taught before in previous semesters, this was a new lab for this semester.
+All the prior labs had been taught before in previous semesters, this was a new lab for the first time this semester.
 
 Coordinate Systems  
 <a href="{{ site.baseurl }}/pdfs/slides/Coordinate Systems F26.pdf" target="_blank">(F26)</a>  
