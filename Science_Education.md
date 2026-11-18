@@ -77,6 +77,21 @@ Coordinate Systems
 Orbital Motion  
 <a href="{{ site.baseurl }}/pdfs/slides/Orbital Motion F26.pdf" target="_blank">(S26)</a>  
 
+Lunar Observing  
+<a href="{{ site.baseurl }}/pdfs/slides/Lunar Observing F26.pdf" target="_blank">(S26)</a>  
+
+Impact Cratering  
+<a href="{{ site.baseurl }}/pdfs/slides/Impact Cratering F26.pdf" target="_blank">(S26)</a>  
+
+Planetary Surface Processes  
+<a href="{{ site.baseurl }}/pdfs/slides/Planetary Surface Processes F26.pdf" target="_blank">(S26)</a>  
+
+Solar System Formation  
+<a href="{{ site.baseurl }}/pdfs/slides/Solar System Formation F26.pdf" target="_blank">(S26)</a>  
+
+Planetary Atmospheres  
+<a href="{{ site.baseurl }}/pdfs/slides/Planetary Atmospheres F26.pdf" target="_blank">(S26)</a>  
+
 ### Extra Credit Quiz (F25)
 At the end of my first semester as a TA, Dr. Windhorst gave the TAs permission to create their own extra credit assignments for their students. Not everyone did, but I wrote this quiz. 
 
