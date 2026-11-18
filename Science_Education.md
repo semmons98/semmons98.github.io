@@ -82,6 +82,7 @@ Lunar Observing
 
 Impact Cratering  
 <a href="{{ site.baseurl }}/pdfs/slides/Impact Cratering F26.pdf" target="_blank">(S26)</a>  
+I did not realize how how much this looked like Jeopardy until I had it up on the screen in front of the students. 
 
 Planetary Surface Processes  
 <a href="{{ site.baseurl }}/pdfs/slides/Planetary Surface Processes F26.pdf" target="_blank">(S26)</a>  
