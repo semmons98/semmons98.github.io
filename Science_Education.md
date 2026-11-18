@@ -55,7 +55,7 @@ Same green as Spectroscopy S26, this lab was done on the same day as the Artemis
 
 Open Clusters  
 <a href="{{ site.baseurl }}/pdfs/slides/Open Clusters S26.pdf" target="_blank">(S26)</a>  
-The mnemonic at the bottom of slide 4 is from a professor from one of my earlier classes and was suggested as a less objectionable alternative to the traaditional one.
+The mnemonic at the bottom of slide 4 is from a professor from one of my earlier classes and was suggested as a less objectionable alternative to the traditional one.
 
 Galaxy Morphology  
 <a href="{{ site.baseurl }}/pdfs/slides/Galaxy Morphology S26.pdf" target="_blank">(S26)</a>  
