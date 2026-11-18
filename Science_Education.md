@@ -39,11 +39,11 @@ Same note about the .gif, this time on slide 8.
 
 Magnitudes and Stellar Brightness  
 <a href="{{ site.baseurl }}/pdfs/slides/Magnitudes and Stellar Brightness S26.pdf" target="_blank">(S26)</a>  
-The picture on the top right of slide 11 is of the Orion Nebula, it was taken by me by jamming my cell phone camera against the eyepiece of one of the telescopes and holding it still for a couple second exposure - this was just before the lab, when the other TAs and I were setting up the telescopes for it. 
+The picture on the top right of slide 11 is of the Orion Nebula, it was taken by me by placing my cell phone camera against the eyepiece of one of the telescopes and holding it still for a couple second exposure - this was just before the lab, when the other TAs and I were setting up the telescopes for it. 
 
 General Observing  
 <a href="{{ site.baseurl }}/pdfs/slides/General Observing S26.pdf" target="_blank">(S26)</a>  
-Slides 13, 19, 20, and 21 were not used. Slide 24 was in case of bad weather keeping us inside as the forecast could have gone either way (but ended up being clear).
+Slides 13, 19, 20, and 21 were not used. Slide 24 was in case of bad weather keeping us inside as the forecast could have gone either way (but it ended up being clear).
 
 Variable Stars  
 <a href="{{ site.baseurl }}/pdfs/slides/Variable Stars S26.pdf" target="_blank">(S26)</a>  
